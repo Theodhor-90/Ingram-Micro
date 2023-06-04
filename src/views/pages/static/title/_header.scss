@@ -1,0 +1,136 @@
+.logo-container {
+  padding: 32px 40px 0;
+  @include media-breakpoint-down(lg) {
+    padding: 16px 24px;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+  }
+}
+
+.logo {
+  @include media-breakpoint-up(lg) {
+    margin-left: 52px;
+  }
+}
+
+.main-header {
+  margin-left: 104px;
+  & .title-small {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19.07px;
+    color: #005492;
+  }
+
+  & .title-large {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+    color: #005492;
+  }
+
+  & .title-p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #232323;
+    margin-top: 8px;
+  }
+  @include media-breakpoint-down(lg) {
+    text-align: center;
+    margin-left: 0;
+  }
+}
+
+.burger {
+  cursor: pointer;
+  & .line-1,
+  & .line-2,
+  & .line-3,
+  & .line-4,
+  & .line-5 {
+    transition: all 0.3s;
+  }
+  & .line-4,
+  & .line-5 {
+    opacity: 0;
+  }
+  &.active {
+    & .line-1 {
+      transform: translate(0, 10px);
+    }
+    & .line-3 {
+      transform: translate(0, -10px);
+    }
+    & .line-1,
+    & .line-2,
+    & .line-3 {
+      opacity: 0;
+    }
+    & .line-4,
+    & .line-5 {
+      opacity: 1;
+    }
+  }
+}
+
+.header-container {
+  width: calc(100%);
+  height: calc(100vh - 156px);
+  bottom: 0;
+  background-color: white;
+  top: 80px;
+  z-index: 10;
+  padding: 24px 40px;
+  @include media-breakpoint-down(lg) {
+    padding: 16px 24px;
+  }
+  & .padding-lg-64 {
+    padding-left: 32px;
+    @include media-breakpoint-up(lg) {
+      padding-left: 64px;
+    }
+  }
+}
+
+.nav-element {
+  font-weight: 700;
+  margin-bottom: 16px;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: 0.01em;
+  color: #232323;
+  cursor: pointer;
+  transition: all 0.3s;
+  &:hover {
+    color: #005492;
+  }
+  &.active {
+    color: #005492;
+    pointer-events: none;
+  }
+}
+
+.st0 {
+  fill: #003158;
+}
+.st1 {
+  fill: #ffffff;
+}
+.st2 {
+  fill: #a6a8ab;
+}
+.st3 {
+  fill: #0077d4;
+}
+.st4 {
+  fill: #1c1018;
+}
+.st5 {
+  fill: #d9143d;
+}
+
+.new-logo {
+  margin-top: -26px;
+  cursor: pointer;
+}

@@ -1,0 +1,36 @@
+.dropdown-main {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+  padding: 8px;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  z-index: 100;
+}
+
+.dropdown-list {
+  position: absolute;
+  top: 40px;
+  border: 1px solid black;
+  padding: 16px;
+  border-radius: 8px;
+  background: linear-gradient(180deg, #005492 0%, #0a2a5e 64.83%);
+  @include media-breakpoint-up(lg) {
+    width: calc(100% - 34px);
+  }
+}
+
+.dropdown-element {
+  cursor: pointer;
+  color: white;
+  &:hover {
+    background-color: $button-secondary-hover;
+  }
+  &.active {
+    background-color: $button-primary-active;
+    pointer-events: none;
+    cursor: auto;
+  }
+}

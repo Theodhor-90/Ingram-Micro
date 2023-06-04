@@ -1,0 +1,74 @@
+// Font-sizes
+
+$body-font-size: 0.875rem;
+$body-font-size-small: 0.75rem;
+$title-font-size: 1.125rem;
+$paragraph-line-height: 1.5rem;
+
+
+// Helper typography classes
+.ingram--title {
+    font-size: $title-font-size;
+    font-weight: 700;
+
+}
+.ingram--sub-title {
+    font-size: $body-font-size;
+    font-weight: 700;
+    &__small {
+        font-size: $body-font-size-small;
+    }
+    &__mt {
+        margin-top: 35px;
+    }
+}
+
+.ingram--paragraph {
+    font-size: $body-font-size;
+    line-height: $paragraph-line-height;
+    &__small {
+        font-size: $body-font-size-small;
+        &__no-margin {
+            font-size: $body-font-size-small;
+            margin: 0;
+        }
+    }
+    &__no-margin {
+        margin: 0;
+        font-size: $body-font-size;
+    }
+}
+
+// GLOBAL COLORS
+
+$primary-dark-blue: #0A2A5E;
+$secondary-light-blue: #005492;
+$secondary-orange: #FFAB09;
+$primary-mid-blue: #005492;
+$primary-aqua: #00B7A2;
+$gradient-blue: linear-gradient(180deg, #005492 0%, #0A2A5E 64.83%);
+$neutral-light-grey: #F3F3F3;
+$neutral-mid-grey: #E1E1E1;
+$neutral-hover-grey: #d6d6d6;
+$neutral-dark-grey: #5B5C5F;
+$text-black: #232323;
+$neutral-hover-grey: #d6d6d6;
+
+// buttons only hover and active states
+
+$button-primary-bover:#32cab8;
+$button-primary-active:#038b7c;
+
+$button-secondary-hover: #32cab8;
+$button-secondary-active:#00B7A2;
+
+$button-ghost-hover: #32cab8;
+$button-ghost-active: #038b7c;
+
+
+// .App {
+//     height: 100%;
+//     background: $gradient-blue;
+// }
+
+$include-column-box-sizing: true !default;

@@ -1,0 +1,47 @@
+[
+  {
+    "Operations": [
+      "Business operations encompass a vast array of processes, systems, teams, and data. When all these pieces interoperate effectively, they foster optimisations and efficiencies that make them greater than the sum of their parts.",
+      "Too often, the opposite is true. Organisations of all sizes struggle to appropriately equip and integrate their internal operations. Insufficient tools, department and data siloes, manual processes, and lack of consistent oversight and reporting make it difficult to prioritise, allocate the right internal resources to projects, and manage costs and profitability."
+    ],
+
+    "HR": [
+      "Employee expectations have grown substantially in the last decade, prompting organisations of all sizes to roll out enhanced benefit packages, expand support for remote work, increase focus on development and wellbeing, and more. To stay competitive in the talent market, such changes are necessary, but they also add a lot of complexity for Human Resources departments to navigate.",
+      "Any HR department needs visibility into employees’ performance, company property, benefits, time off, career growth—the list goes on and on. And particularly as an organisation grows, maintaining a consistent line-of-sight across all those variables becomes harder—but no less critical."
+    ],
+
+    "Distribution & Logistics": [
+      "Threats to supply chain operations—material shortages, transit interruptions, staffing challenges, global events, and more—have grown more frequent and more severe over the last few years. Such volatility makes critical functions such as distribution, warehousing, and order processing vulnerable to interruptions which can have outsized impact on business health and performance.",
+      "Without real-time insights into all the moving pieces across the supply chain, efficiently managing logistics becomes next to impossible. A business must use intuition rather than data to anticipate potential interruptions and adapt, resulting in waste and inefficiency that trickles down to the end customer in the form of inaccurate delivery estimates, missed fulfilments, incorrect orders, and more."
+    ],
+
+    "Marketing": [
+      "Marketers today operate within an increasingly fraught and complex landscape. The exponential increase in available channels means they have more sources of customer intelligence and more opportunities to connect than ever before. However, as organisations prioritise efficiency and return-on-investment, marketers are also being held accountable for higher and higher performance—performance that’s harder to track and quantify.",
+      "Issues like shrinking budgets, understaffing, and frequent turnover in leadership mean marketers are asked to deliver more results with fewer resources—and in less time."
+    ],
+
+    "Sales": [
+      "Sales and service representatives today are expected to build a deep understanding of every customer. Whether that means a small number of complex, high-value customers or hundreds of smaller, simpler accounts, the quantity of information, engagement data, communication records, and more can consume a representative and pull their focus away from their primary responsibilities.",
+      "The same challenge that plagues sales and service representatives in customer-facing interactions can also prevent them from demonstrating their contributions and being fairly and accurately compensated for them.",
+      "To maximise their performance and prove its value to their organisations, sales and service representatives need to be able to track and organise details of every interaction—from first call to final follow-up to customer payment—and apply the knowledge they gain along the way."
+    ],
+
+    "Finance": [
+      "A finance department is responsible for systems and processes that have far-reaching impact across the business—the failure of any one of which could prevent the organisation from completing critical tasks such as order fulfilment, billing, or payroll.",
+      "Even with the support of tools to facilitate processes, many finance teams are still burdened with manual tasks which pull focus from their larger objectives. For instance, a lack of integration between databases or finance functions makes it difficult to share information across departments, and the finance team is left trying to make the connection. This same issue also makes it difficult to get a centralised view of operational data and performance, hindering strategic decision-making.",
+      "These challenges are multiplied within any organisation that has complex product configurations or selling models such as subscriptions. "
+    ],
+
+    "Customer": [
+      "Customer experience (CX) is comprised of every interaction a customer has with your brand. This includes marketing messages, sales communications, in-store or online buying experiences, customer support, and everything in between. In a landscape where products and services are growing increasingly commoditised, your customer experience is a defining factor in purchase decisions—and significantly influences customer satisfaction and retention. Against this backdrop, businesses need to provide seamless customer experiences that apply customer intelligence to personalise interactions and demonstrate value at every turn."
+    ],
+
+    "Employee": [
+      "Employee experience is made up of the tools, processes, team dynamics, human resources, and responsibilities that make up each workday. A positive employee experience empowers team members by ensuring they have both the resources to excel in their positions, and the support to feel fulfilled, valued, and happy at work.  A negative employee experience, on the other hand, harms productivity and morale and makes it difficult for companies to hire and retain talent. And if employees are unhappy and ill-equipped to do their jobs, customer experience, sales, and profits suffer as well."
+    ],
+
+    "Supplier/Partner": [
+      "Supplier/partner experience describes how easy or difficult it is for a third-party to collaborate with and contribute to your business.  Supplier/partner relationships can be structured in many ways—a buyer/seller relationship, revenue-sharing arrangement, an outside sales or referral model, and more. But, no matter the structure of the relationship, it’s important to have well-defined systems and processes in place to facilitate seamless workflows, foster collaboration, and ensure every party gets value from the arrangement."
+    ]
+  }
+]

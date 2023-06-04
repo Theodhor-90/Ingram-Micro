@@ -1,0 +1,194 @@
+.dynamic-page {
+  position: relative;
+  background: linear-gradient(180deg, #005492 0%, #0a2a5e 64.83%);
+  @include media-breakpoint-up(lg) {
+    height: 100vh;
+  }
+  padding: 0 40px;
+}
+.option-selected {
+  color: white;
+  background-color: red;
+}
+
+.restricted-height {
+  @include media-breakpoint-up(lg) {
+    max-height: calc(100vh - 107px);
+  }
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding-right: 16px;
+  &::-webkit-scrollbar {
+    width: 8px;
+    height: 580px;
+    margin-bottom: 75px;
+  }
+  &::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 100px;
+    height: 580px;
+    margin-bottom: 75px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: #00b7a2;
+    box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.16);
+    height: 135px;
+    border-radius: 100px;
+    margin-bottom: 75px;
+  }
+}
+
+.sticky-table-container {
+  z-index: 10;
+  position: absolute;
+  bottom: 0;
+  width: calc(100% - 80px);
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  transform: translateY(calc(100% - 52px));
+  transition: transform 0.4s;
+  @include media-breakpoint-down(lg) {
+    position: fixed;
+    width: 100vw;
+    left: 0;
+  }
+  &.expanded {
+    transform: translateY(0);
+    & .sticky-table {
+      & .table-header {
+        &.rotated {
+          &.ingram--button {
+            & svg {
+              transform: rotate(90deg);
+            }
+          }
+        }
+      }
+    }
+  }
+  & .sticky-table {
+    width: 75%;
+    @include media-breakpoint-down(lg) {
+      width: 100%;
+    }
+    & .table-header {
+      width: 100%;
+      &.ingram--button {
+        &.rotated {
+          & svg {
+            transition: transform 0.4s;
+            transform: rotate(-90deg);
+          }
+        }
+      }
+    }
+    & .border-bottom-neutral {
+      border-bottom: 1px solid $neutral-mid-grey;
+    }
+    & .growth-stage-card {
+      background-color: $neutral-light-grey;
+      padding: 16px;
+      border-left: 1px solid $neutral-mid-grey;
+      cursor: pointer;
+      height: 100%;
+      @include media-breakpoint-down(lg) {
+        padding: 16px 24px;
+        border-bottom: 1px solid #e1e1e1;
+      }
+
+      &.option-selected {
+        cursor: auto;
+        pointer-events: none;
+        background-color: $white;
+        & .card-title {
+          color: $primary-aqua;
+        }
+      }
+
+      &.no-border {
+        border-left: none;
+      }
+
+      & .growth-stage-paragraph {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 22px;
+        color: $text-black;
+      }
+
+      & .bar {
+        background-color: $neutral-mid-grey;
+        width: 6px;
+        &.filled {
+          background-color: $primary-dark-blue;
+        }
+        &.bar-1 {
+          height: 8px;
+        }
+        &.bar-2 {
+          height: 13px;
+        }
+        &.bar-3 {
+          height: 18px;
+        }
+      }
+    }
+  }
+}
+
+body {
+  @include media-breakpoint-up(lg) {
+    overflow: hidden;
+  }
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.borderless {
+  border: none;
+}
+
+.pt-40 {
+  padding-top: 40px;
+}
+
+.pb-80 {
+  padding-bottom: 120px;
+}
+
+.pb-80-mobile {
+  @include media-breakpoint-down(lg) {
+    padding-bottom: 80px;
+  }
+}
+
+.no-options {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 28px;
+}
+
+.stretching {
+  animation-name: stretch;
+  animation-duration: 3s;
+  animation-timing-function: ease-out;
+  animation-iteration-count: infinite;
+  animation-play-state: running;
+}
+
+@keyframes stretch {
+  0% {
+    transform: scale(1.1);
+  }
+
+  50% {
+    transform: scale(0.9);
+  }
+
+  100% {
+    transform: scale(1.1);
+  }
+}

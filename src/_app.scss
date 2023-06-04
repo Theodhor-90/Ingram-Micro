@@ -1,0 +1,27 @@
+.app-container {
+  @include media-breakpoint-up(lg) {
+    height: 100vh;
+  }
+  overflow: hidden;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.shaped-background {
+  background-image: url(./assets/Lines-BG.jpg);
+  background-repeat: no-repeat;
+  background-position-x: 32px;
+  background-position-y: 292px;
+  @include media-breakpoint-down(xxl) {
+    background-position-x: calc((100vw - 1440px) / 6 + 32px);
+  }
+  @include media-breakpoint-down(lg) {
+    background-position-x: calc(219px - (992px - 100vw) / 2);
+    background-position-y: 326px;
+  }
+  @media only screen and (max-width: 532px) {
+    background-size: 120%;
+    background-position-y: 345px;
+    background-position-x: -20px;
+  }
+}

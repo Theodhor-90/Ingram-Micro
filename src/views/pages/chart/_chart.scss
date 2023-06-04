@@ -1,0 +1,127 @@
+.chart-container {
+  position: relative;
+  width: 500px;
+  height: 500px;
+  margin-top: 53px;
+}
+
+.chart-tooltip {
+  position: absolute;
+  color: white;
+  width: 220px;
+  left: 50%;
+  top: 50%;
+  font-size: 20px;
+  line-height: 27.24px;
+  letter-spacing: -0.015em;
+  z-index: 10;
+  transform: translate(-45%, -50%);
+  @include media-breakpoint-down(md) {
+    font-size: 16px;
+    line-height: 22px;
+  }
+  @include media-breakpoint-down(sm) {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+
+.donut-text,
+.pie-text {
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 0.015em;
+  cursor: pointer;
+}
+.donut-text{
+  @include media-breakpoint-up(lg){
+    font-size: 16px;
+  }
+}
+
+.mobile-chart-tooltip {
+  position: fixed;
+  bottom: 68px;
+  right: 16px;
+  cursor: pointer;
+}
+
+.pulsing {
+  animation-name: pulse;
+  animation-duration: 2s;
+  animation-timing-function: ease-out;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+  animation-play-state: running;
+}
+
+@keyframes pulse {
+  0% {
+    fill: rgb(0, 183, 162);
+  }
+
+  50% {
+    fill: $white;
+  }
+
+  100% {
+    fill: rgb(0, 183, 162);
+  }
+}
+
+.description-tooltip,
+.chart-message {
+  padding: 16px;
+  background-color: #011d47;
+  border-radius: 14px;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  color: white;
+  letter-spacing: -0.015em;
+  text-align: center;
+  z-index: 10;
+  transform: translateX(-50%);
+}
+
+.tooltip-triangle {
+  left: calc(50% - 4px);
+  position: absolute;
+  top: -16px;
+}
+
+.chart-message {
+  position: absolute;
+  left: 50%;
+  top: -5%;
+  width: 60%;
+  background-color: #0a2a5e;
+}
+
+.scale-pulse {
+  animation-name: scale;
+  animation-duration: 10s;
+  animation-iteration-count: 5;
+  animation-delay: 3s;
+}
+
+@keyframes scale {
+  0% {
+    transform: scale(1);
+  }
+  2.5% {
+    transform: scale(0.95);
+  }
+  5% {
+    transform: scale(1.05);
+  }
+  7.5% {
+    transform: scale(0.95);
+  }
+  10% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}

@@ -1,0 +1,44 @@
+.card-title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 19px;
+  letter-spacing: -1.5%;
+  margin-bottom: 16px;
+  &.no-margin {
+    margin-bottom: 0;
+    display: flex;
+    align-items: center;
+  }
+}
+
+.regular-title {
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 1%;
+  line-height: 24px;
+}
+
+.large-title {
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: 1%;
+  line-height: 24px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 600;
+  letter-spacing: -1.5%;
+}
+
+.description-title {
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: 0.015em;
+}
+
+.description-paragraph {
+  font-weight: 400;
+}

@@ -1,0 +1,1802 @@
+[
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "A constant stream of new competitors in the market makes it hard to maintain a differentiated customer offering.",
+    "Experience Customer": "X",
+    "Experience Employee": "",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Marketing, Dynamics 365 Customer Insights, Dynamics 365 Sales Enterprise, Power BI",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "A large customer base that relies on face-to-face or telephony contact presents barriers to growth.",
+    "Experience Customer": "X",
+    "Experience Employee": "",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Marketing, Dynamics 365 Customer Insights, Dynamics 365 Sales Enterprise, Dynamics 365 Customer Service Enterprise, Power Apps, Power Automate, Power Virtual Agents",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Adoption and utilisation of new technologies and channels is delayed due to lack of success plans, trainings, and internal advocates.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "Microsoft FastTrack for Microsoft 365, Pluralsight\n",
+    "Business Pillar Business Performance": "Dynamics 365 Human Resources, Dynamics 365 Remote Assistant, Dynamics 365 Guides, Power Apps, Power Automate, Power BI, Power Virtual Agents",
+    "Function Operations": "X",
+    "Function HR": "X",
+    "Function Finance": "X",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": "X"
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Aging equipment incurs spiralling costs, making it difficult to control budgets.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "Azure Arc, Azure Migrate, CloudCheckr, Google Cloud Billing Budgets and Alerts",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Finance, Dynamics 365 Supply Chain Management, Dynamics 365 Business Central, Dynamics 365 Field Service, Dynamics 365 Project Operations, Power Apps, Power Automate",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "X",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "As teams grow, the associated SaaS based seats-per-license expense can be difficult to manage.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "AvePoint Cense",
+    "Business Pillar Business Performance": "Power Automate",
+    "Function Operations": "X",
+    "Function HR": "",
+    "Function Finance": "X",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Attracting new customers and encouraging engagement is increasingly difficult.",
+    "Experience Customer": "X",
+    "Experience Employee": "",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Marketing, Dynamics 365 Customer Insights, Power Apps, Dynamics 365 Sales Professional, Dynamics 365 Customer Service Professional",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Collaboration challenges between disparate teams result in miscommunications, document version control issues, and feelings of disengagement between employees and their work.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "Microsoft 365, Office 365, Microsoft Teams, Dropbox, Google Cloud Platform, Google Workspace Business, Adobe PDF Reader",
+    "Business Pillar Business Performance": "Power Apps, Dynamics 365 Sales Enterprise",
+    "Function Operations": "X",
+    "Function HR": "X",
+    "Function Finance": "X",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": "X"
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Confusing and complex security and compliance processes and management are expensive and difficult to keep updated.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "Microsoft Entra, Microsoft Defender for Cloud, Google Cloud Security Command Centre, AWS Security Hub, AWS Systems Manager, AWS Config",
+    "Business Pillar Seamless Security": "Ingram Micro Cyber Security Services (CoE), CyberSmart",
+    "Business Pillar Connected Workplace": "Microsoft Enterprise Mobility Suite",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "X",
+    "Function HR": "X",
+    "Function Finance": "X",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Costs to power equipment continue to increase, and lack of transparency makes it difficult to monitor those costs and reconcile budgets accordingly. This relates specifically to manufacturing / product development specific equipment.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "Azure Migrate, Azure Arc, Azure Monitor, Azure Advisor, Azure IoT, Google Cloud Monitoring, Google Cloud Billing Budgets and Alerts, Google Cloud Quotas, AWS Budgets, AWS CloudWatch, AWS Simple Notification Service",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Business Central, Dynamics 365 Finance, Power BI\n",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "X",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Critical supply chain information isn't available in real-time, resulting in lost sales and unnecessary markdowns and reductions.",
+    "Experience Customer": "",
+    "Experience Employee": "",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "Azure IoT, Google IoT Core, AWS Kinesis Data Streams, AWS Kinesis Data Analytics",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Business Central, Dynamics 365 Supply Chain Management, Power BI",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": "X"
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Customers struggle with offsite backups when they only have on-premises infrastructure.",
+    "Experience Customer": "X",
+    "Experience Employee": "",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "Azure Backup, Azure File Sync, Azure Cloud Storage, Google Cloud Backup and Disaster Recovery, Google Cloud Storage, Google Cloud gsutil API, AWS Backup, AWS Storage Gateway, AWS File Gateway",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "X",
+    "Function HR": "X",
+    "Function Finance": "X",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": "X"
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Cyberattacks can leave a company financially and operationally crippled due to remediation, investigation, crisis communications, and customer refunds, putting a strain on resources.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "Microsoft Sentinel, Google Cloud Chronicle Security Operations, AWS Security Hub",
+    "Business Pillar Seamless Security": "CyberSmart, Ingram Micro Cyber Security Services (CoE)\n",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "X",
+    "Function HR": "",
+    "Function Finance": "X",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Difficulty integrating disparate systems, tools, and processes impacts growth through mergers and acquisitions.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "Azure Migrate, Google Cloud Migrate for Compute Engine, Google Cloud Migrate for GKE, AWS Server Migration Service",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "AvePoint Cense",
+    "Business Pillar Business Performance": "\nDynamics 365 Business Central, Dynamics 365 Sales Enterprise, Dynamics 365 Supply Chain Management, Power Automate, Power Apps, Power BI, Dynamics 365 Customer Service Enterprise\n",
+    "Function Operations": "X",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Disjointed legacy systems lack the agility and power to adapt to modern customer needs.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "Azure Migrate, Google Cloud Migrate for Compute Engine, Google Cloud Migrate for GKE, AWS Server Migration Service",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "Microsoft 365, Office 365, Microsoft Teams, Dropbox, Google Cloud Platform, Google Workspace Business, Adobe PDF Reader, DocuSign, Adobe Sign, HelloSign",
+    "Business Pillar Business Performance": "Dynamics 365 Sales Enterprise, Dynamics 365 Customer Service Enterprise, Dynamics 365 Marketing, Dynamics 365 Field Service, Dynamics 365 Project Operations, Dynamics 365 Commerce, Dynamics 365 Finance, Dynamics 365 Human Resources, Dynamics 365 Supply Chain Management, Dynamics 365 Business Central, Power BI, Power Apps, Power Automate, Power Virtual Agents",
+    "Function Operations": "X",
+    "Function HR": "X",
+    "Function Finance": "X",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": "X"
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Dysfunctional teams working in silos require expensive creative tools, which results in unpredictable costs.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "Adobe Creative Cloud",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "",
+    "Function HR": "X",
+    "Function Finance": "",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Employees are unable to easily share and access files between teams.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "Azure Files, Azure File Sync, Google Cloud Identity and Access Management, Google Cloud Storage, Amazon WorkDocs",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "Microsoft Teams, SharePoint, Yammer, Dropbox",
+    "Business Pillar Business Performance": "Dynamics 365 Sales Enterprise, Dynamics 365 Sales Professional, Dynamics 365 Customer Service Enterprise, Dynamics 365 Customer Service Professional",
+    "Function Operations": "X",
+    "Function HR": "X",
+    "Function Finance": "X",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": "X"
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Employees need to be able to securely access company data with minimal interruptions to workflows.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "ExpressRoute, Azure VPN Gateway, Google Cloud High-Availability VPN, Google Cloud Interconnect, AWS Direct Connect, AWS Virtual Private Network",
+    "Business Pillar Seamless Security": "Delinea Privilege Manager",
+    "Business Pillar Connected Workplace": "Dropbox, Microsoft Office 365, Microsoft 365 Business Standard, Microsoft Defender for Business, Microsoft 365 Business Premium",
+    "Business Pillar Business Performance": "Dynamics 365 Sales Enterprise, Dynamics 365 Customer Service Enterprise, Dynamics 365 Field Service, Dynamics 365 Project Operations, Dynamics 365 Supply Chain Management, Dynamics 365 Business Central, Power BI, Power Apps",
+    "Function Operations": "X",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Expansion sometimes comes at the expense of current customers.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Marketing, Dynamics 365 Customer Insights, Dynamics 365 Sales Enterprise, Power Apps, Dynamics 365 Field Service, Dynamics 365 Customer Service Enterprise, Power BI",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Failure to utilise new technologies such as AI and IoT to their fullest extent adds complexity and cost.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "Azure IoT, Azure Cognitive Services, Google Cloud Vertex AI, Google IoT Core, AWS IoT Core",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Project Operations, Dynamics 365 Field Service, Dynamics 365 Customer Service Enterprise, Dynamics 365 Remote Assistant, Dynamics 365 Guides, Power Automate",
+    "Function Operations": "X",
+    "Function HR": "X",
+    "Function Finance": "X",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": "X"
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Hybrid/remote work models hinder team collaboration and HR visibility and increase the risk of cyberattack.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "ExpressRoute, Azure VPN Gateway, Azure Firewall, Azure Virtual Desktop, Google Cloud Interconnect, Google Cloud High-Availability VPN, AWS Direct Connect, AWS Virtual Private Network, AWS Web Application Firewall, Amazon WorkSpaces",
+    "Business Pillar Seamless Security": "Trellix Endpoint Security, Trellix Mobile Security, Bitdefender GravityZone Patch Management, Bitdefender Next-Gen AV, Cisco Remote-Access VPN, Cisco Zero Trust Security, Skyhigh Private Access",
+    "Business Pillar Connected Workplace": "Microsoft Office 365, Microsoft Teams, Google Workspace Business, Microsoft 365 Business Premium",
+    "Business Pillar Business Performance": "Dynamics 365 Human Resources, Power BI, Power Apps",
+    "Function Operations": "",
+    "Function HR": "X",
+    "Function Finance": "",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Identifying and recruiting global talent is complex and expensive.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Human Resources, Power BI ",
+    "Function Operations": "",
+    "Function HR": "X",
+    "Function Finance": "",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Inconsistent customer experiences increase demands on support teams who are already overutilised.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Customer Service Enterprise, Dynamics 365 Field Service, Power Virtual Agents, Power Automate",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Inefficient and complex Field Management processes and workflows increase operational costs.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Field Service, Dynamics 365 Project Operations, Power Apps",
+    "Function Operations": "X",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Insufficient digital infrastructure results in storage shortages and slowdowns which impact employee productivity and performance.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "Azure Files, Azure Virtual Machines, Azure Cloud Storage, Google Cloud Storage, Google Cloud Filestore, AWS Simple Storage Service, AWS Elastic File System, AWS Elastic Block Store",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "X",
+    "Function HR": "X",
+    "Function Finance": "",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Insufficient insights into resource expenditure and utilisation increase operational costs.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "Azure Cost Management and Billing, Azure Application Insights, Google Cloud Billing Budgets and Alerts, Google Cloud Quotas, AWS Budgets, CloudCheckr",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Field Service, Dynamics 365 Project Operations, Dynamics 365 Finance, Dynamics 365 Supply Chain Management, Dynamics 365 Business Central, Power BI, Power Apps",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "X",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "It's difficult to access the resources needed to manage cashflow and balance sheets, both of which are critical for expanding operations.",
+    "Experience Customer": "",
+    "Experience Employee": "",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Business Central, Dynamics 365 Finance, Power BI",
+    "Function Operations": "X",
+    "Function HR": "",
+    "Function Finance": "X",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "It's difficult to share compliance documents with the remote workforce.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "HelloSign, DocuSign, Microsoft Office 365, Adobe Sign",
+    "Business Pillar Business Performance": "Dynamics 365 Field Service",
+    "Function Operations": "X",
+    "Function HR": "X",
+    "Function Finance": "X",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "It's expensive to purchase and maintain telephony hardware and calling plans. ",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "Microsoft Teams, SIPPIO",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "It's hard to protect high-level privileged users and assets that require special access rules and security layers.",
+    "Experience Customer": "X",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "Microsoft Entra, Google Cloud Identity and Access Management, AWS Identity and Access Management",
+    "Business Pillar Seamless Security": "Delinea Privilege Manager, Delinea Secret Server, Trellix Endpoint Security",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "X",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Lack of market and customer knowledge impedes the ability to expand into new markets and scale. ",
+    "Experience Customer": "X",
+    "Experience Employee": "",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Marketing, Dynamics 365 Customer Insights, Power Apps, Dynamics 365 Sales Enterprise",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Lack of supply chain transparency leads to long lead times and inefficiency.",
+    "Experience Customer": "",
+    "Experience Employee": "",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Supply Chain Management, Dynamics 365 Business Central",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": "X"
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Lack of user training in security for tools and systems creates major risk for ransomware and other cyberattacks.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "Ingram Micro Cyber Security Services (CoE)",
+    "Business Pillar Connected Workplace": "Microsoft FastTrack for Microsoft 365, Pluralsight",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "X",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Lacking adoption of new channels leads to poor customer engagement.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Marketing, Dynamics 365 Customer Insights, Dynamics 365 Sales Professional, Dynamics 365 Customer Service Professional, Power BI",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Legacy security systems aren't sufficient for WFH environments where employees access company data via their own devices.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "Google Workspace Business, Azure Virtual Desktop, Azure VPN Gateway, ExpressRoute, Amazon WorkSpaces, Amazon WorkDocs",
+    "Business Pillar Seamless Security": "Trellix Endpoint Security, Trellix Mobile Security, Bitdefender GravityZone Patch Management, Bitdefender Next-Gen AV, Delinea Privilege Manager",
+    "Business Pillar Connected Workplace": "Microsoft 365, Office 365, Microsoft Teams, Dropbox, Google Cloud Platform, Google Workspace Business, Adobe PDF Reader, DocuSign, Adobe Sign, HelloSign",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "X",
+    "Function HR": "X",
+    "Function Finance": "X",
+    "Function Sales": "X",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Limited access to vital data in conflicting and disparate places creates multiple versions of the truth and hampers growth.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Finance, Dynamics 365 Supply Chain Management, Dynamics 365 Sales Enterprise, Dynamics 365 Customer Service Enterprise, Power BI, Power Apps",
+    "Function Operations": "X",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Maintaining compliance training and processes amid an everchanging regulatory environment strains internal resources. ",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "CyberSmart, Ingram Micro Cyber Security Services (CoE)",
+    "Business Pillar Connected Workplace": "Pluralsight, Microsoft Defender for Cloud",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "X",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Maintaining GDPR compliance as guidance constantly changes is both complicated and expensive.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "Google Workspace Business, Microsoft Defender for Cloud, CloudCheckr",
+    "Business Pillar Seamless Security": "CyberSmart, Ingram Micro Cyber Security Services (CoE)",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "X",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Managing diverse employee contracts is time-consuming.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "HelloSign, DocuSign, Adobe Sign",
+    "Business Pillar Business Performance": "Dynamics 365 Human Resources",
+    "Function Operations": "",
+    "Function HR": "X",
+    "Function Finance": "",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Managing expansion is immensely complicated due to rising costs, compounding risks, and limiting manual and labour-intensive processes.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Business Central, Dynamics 365 Finance, Dynamics 365 Sales Enterprise, Power Apps",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "X",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Managing growth and rising costs while building a cohesive business strategy is a delicate balancing act.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Business Central, Dynamics 365 Marketing, Dynamics 365 Customer Insights, Power Apps, Dynamics 365 Sales Professional",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "X",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Managing stock, fulfilment, and order-tracking through a digital shop is challenging.",
+    "Experience Customer": "",
+    "Experience Employee": "",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Business Central, Dynamics 365 Supply Chain Management, Dynamics 365 Commerce, Power Apps, Power BI",
+    "Function Operations": "X",
+    "Function HR": "X",
+    "Function Finance": "X",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": "X"
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Manual purchase order processes for provisioning of licenses disrupts workflows.",
+    "Experience Customer": "X",
+    "Experience Employee": "",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Power Apps, Dynamics 365 Business Central ",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "X",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Migrating infrastructure to the cloud creates strain on internal resources. ",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "Azure Migrate, Google Cloud Migrate for Compute Engine, Google Cloud Migrate for GKE, AWS Server Migration Service",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "X",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Misaligned customer touchpoints generate a backlog of complaints.",
+    "Experience Customer": "X",
+    "Experience Employee": "",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Customer Service Enterprise, Dynamics 365 Field Service, Power Virtual Agents, Power Automate",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Misaligned sales and marketing departments struggle to drive new revenue.",
+    "Experience Customer": "X",
+    "Experience Employee": "",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "Microsoft Office 365, Dropbox, Microsoft Teams, Google Workspace Business",
+    "Business Pillar Business Performance": "Dynamics 365 Marketing, Dynamics 365 Customer Insights, Power Apps, Dynamics 365 Sales Enterprise",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Monitoring internal security threats across many different apps, users, and devices is cumbersome without a standard set of practices. ",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "Google Chrome OS for Enterprise/Education, Microsoft Sentinel, Google Cloud Chronicle Security Operations, AWS Security Hub",
+    "Business Pillar Seamless Security": "Trellix Endpoint Security, Trellix Insights, Trellix Endpoint Detection and Response, Trellix Mobile Security, Bitdefender GravityZone Patch Management, Bitdefender Next-Gen AV, Microsoft Sentinel, Microsoft Entra",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "X",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Multigenerational workforces have different work expectations, making it hard to foster a company culture that's positive for all.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "Microsoft Viva, Microsoft Office 365, Microsoft Teams, Google Workspace Business",
+    "Business Pillar Business Performance": "Dynamics 365 Human Resources, Power BI ",
+    "Function Operations": "",
+    "Function HR": "X",
+    "Function Finance": "",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Multiple cloud platforms create a disparate container environment, resulting in data siloes which leads to a poor customer experience.",
+    "Experience Customer": "X",
+    "Experience Employee": "",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "Azure Kubernetes Service, Docker 20.10, Google Cloud Anthos, Amazon Elastic Kubernetes Service",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Marketing, Dynamics 365 Customer Insights, Dynamics 365 Sales Enterprise, Dynamics 365 Customer Service Enterprise, Dynamics 365 Field Service, Power Automate, Power Virtual Agents",
+    "Function Operations": "X",
+    "Function HR": "",
+    "Function Finance": "X",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Outdated apps, legacy systems, and browsers create cybersecurity vulnerabilities that require specialised management.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "Azure Virtual Desktop",
+    "Business Pillar Seamless Security": "Skyhigh CNAPP, Trellix Application Control, AppGuard, Bitdefender App Control, Delinea Application Access Control, Bitdefender GravityZone Patch Management, Ingram Micro Cyber Security Services (CoE)",
+    "Business Pillar Connected Workplace": "Microsoft Enterprise Mobility Suite",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "X",
+    "Function HR": "X",
+    "Function Finance": "",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": "X"
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Paper contracts create long turnaround times and high costs while increasing the risk of human error.",
+    "Experience Customer": "X",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "Adobe Sign, HelloSign, DocuSign",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "X",
+    "Function HR": "X",
+    "Function Finance": "X",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": "X"
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Poor customer insights make it hard to develop a cohesive, effective marketing plan, which in turn impacts ROI. ",
+    "Experience Customer": "X",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Marketing, Dynamics 365 Customer Insights, Dynamics 365 Sales Enterprise, Power Apps",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "X",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Poor insight into SaaS license usage increases the likelihood of  investment in unnecessary technology.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "AvePoint Cense",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "X",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "There's poor knowledge of data security across business devices, systems, and applications.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "Microsoft Sentinel, Google Cloud Chronicle Security Operations, AWS Security Hub",
+    "Business Pillar Seamless Security": "Azure Active Directory, Microsoft Defender for Cloud, Microsoft Sentinel",
+    "Business Pillar Connected Workplace": "Microsoft Enterprise Mobility Suite",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "X",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Poor operational insights and supply chain management make it difficult to deliver consistent product quality or positive experiences.",
+    "Experience Customer": "X",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Business Central, Dynamics 365 Project Operations, Dynamics 365 Customer Service Enterprise, Power Apps, Power Automate, Power BI",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": "X"
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Poor staff utilisation, management, and development increase HR costs.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "Pluralsight",
+    "Business Pillar Business Performance": "Dynamics 365 Human Resources, Power BI, Power Apps",
+    "Function Operations": "",
+    "Function HR": "X",
+    "Function Finance": "",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Processes for gathering and applying customer insights across business functions are inadequate.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Marketing, Dynamics 365 Customer Insights, Dynamics 365 Sales Professional, Dynamics 365 Customer Service Enterprise, Power BI, Power Pages",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Remote and dispersed workforces need reliable hybrid meeting environments.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "Microsoft Teams, Meeting Rooms ",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "X",
+    "Function HR": "X",
+    "Function Finance": "X",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": "X"
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Sales and marketing don’t have the capacity or the tools to tackle a larger database of customers and prospects.",
+    "Experience Customer": "X",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "Microsoft Office 365, Dropbox, Microsoft Teams, Google Workspace Business",
+    "Business Pillar Business Performance": "Dynamics 365 Marketing, Dynamics 365 Customer Insights, Power Apps, Power Automate, Dynamics 365 Sales Enterprise",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Slow database read/write speeds make it difficult to consistently access information.",
+    "Experience Customer": "X",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "Azure SQL Managed Instance (PAAS), Azure Cosmos Database, Google Cloud SQL, Google Cloud Spanner, Google Cloud Bigtable, AWS Relational Database Service, AWS DynamoDB",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Power Automate",
+    "Function Operations": "X",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Special telephony compliance needs like call recording can be difficult and expensive to integrate into existing hardware systems.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "Dubber ",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "",
+    "Function HR": "X",
+    "Function Finance": "X",
+    "Function Sales": "X",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Team members need to do more with fewer resources.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "Microsoft Teams, Google Workspace Business",
+    "Business Pillar Business Performance": "Dynamics 365 Business Central, Dynamics 365 Marketing, Dynamics 365 Sales Professional, Power Apps, Power Automate, Power BI",
+    "Function Operations": "X",
+    "Function HR": "X",
+    "Function Finance": "X",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": "X"
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "The inability to classify documentation allows sensitive, confidential documents to be shared outside the organisation without being checked, increasing the risk of data loss and exfiltration of intellectual property rights.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "Trellix Data Loss Prevention Endpoint, Trellix Network Data Loss Prevention, Trellix Complete Data Protection Advanced, Progress MOVEit, Delinea Secret Server, Cisco Umbrella Data Loss Prevention",
+    "Business Pillar Connected Workplace": "DocuSign, HelloSign, Adobe Sign",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "X",
+    "Function HR": "X",
+    "Function Finance": "X",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": "X"
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "The organisation doesn't fully understand where it should focus efforts in order to attract new customers and nurture existing accounts.",
+    "Experience Customer": "X",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Sales Professional, Dynamics 365 Customer Insights, Power BI, Dynamics 365 Marketing, Power Apps",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "The organisation is unable to forecast the demand needed to sustain business growth.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Business Central, Dynamics 365 Sales Professional, Power BI",
+    "Function Operations": "X",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "The organisation is unable to react to changing customer needs quickly enough.",
+    "Experience Customer": "X",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Marketing, Dynamics 365 Customer Insights, Dynamics 365 Sales Enterprise, Dynamics 365 Customer Service Enterprise, Dynamics 365 Field Service, Dynamics 365 Supply Chain Management, Power BI, Power Apps, Power Automate, Power Virtual Agents",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": "X"
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "The organisation lacks overarching security leadership and/or leaders are unable to assess cybersecurity status, create action plans, and update systems based on new risks.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "Microsoft Sentinel, Google Cloud Chronicle Security Operations, AWS Security Hub, AWS Inspector",
+    "Business Pillar Seamless Security": "CyberSmart, Ingram Micro Cyber Security Services (CoE), Obrela (SOC as a Service), Vulnerability Assessments, Penetration Testing\n",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "X",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "The organisation struggles to efficiently scale machines or resources to meet demand for internal activities like end-of-month or end-customer interactions like peak cycles.",
+    "Experience Customer": "",
+    "Experience Employee": "",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "Azure Virtual Machines, Azure Virtual Machine Scale Sets, Azure Reserved Instances, Azure VMware Solution, Google Cloud Managed Instance Groups and Load Balancers, Amazon WorkSpaces, AWS Elastic Load Balancing, AWS Auto Scaling",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": "X"
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "The organisation struggles to react effectively to changing customer needs and build a reputation in the market.",
+    "Experience Customer": "X",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Marketing, Dynamics 365 Sales Enterprise, Dynamics 365 Customer Insights, Dynamics 365 Customer Service Enterprise, Power Apps, Power BI",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "X",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "The organisation struggles to understand target market preferences and identify new and different channels to market within.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Sales Enterprise, Power BI, Dynamics 365 Marketing, Dynamics 365 Customer Insights, Power Apps",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "The process of restoring from Tape Backups is inefficient and unreliable. ",
+    "Experience Customer": "X",
+    "Experience Employee": "",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "",
+    "Business Pillar Modern Cloud Platforms": "Azure Backup, Azure File Sync, Azure Cloud Storage, Google Cloud Backup and Disaster Recovery, Google Cloud Storage, Google Cloud gsutil API, AWS Storage Gateway",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "X",
+    "Function HR": "X",
+    "Function Finance": "X",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": "X"
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "There's a lack of insight needed to predict demand in the field.",
+    "Experience Customer": "X",
+    "Experience Employee": "",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Customer Service Enterprise, Dynamics 365 Field Service, Power BI",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Traditional methods of attracting customers are no longer sufficient.",
+    "Experience Customer": "X",
+    "Experience Employee": "",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "Dynamics 365 Sales Professional, Dynamics 365 Marketing, Dynamics 365 Customer Insights, Power BI",
+    "Function Operations": "",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Unsuspecting and untrained users who don't fully understand email-based security risks or use outdated, legacy apps leave the organisation vulnerable to cyberattacks.\n",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": "X"
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "Ingram Micro Cyber Security Services (CoE), Obrela (SOC as a Service), Bitdefender GravityZone Patch Management",
+    "Business Pillar Connected Workplace": "Pluralsight ",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "X",
+    "Function HR": "X",
+    "Function Finance": "X",
+    "Function Sales": "X",
+    "Function Marketing": "X",
+    "Function Distribution & Logistics": "X"
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "User-created security vulnerabilities like writing down passwords and duplicating credentials across systems increases the risk of individual and infrastructure attacks.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "",
+    "Business Pillar Seamless Security": "Delinea Privilege Manager, Delinea Secret Server, Skyhigh CASB/ICE, Ingram Micro Cyber Security Services (CoE), CyberSmart, Bitdefender Next-Gen AV, Trellix Endpoint Security",
+    "Business Pillar Connected Workplace": "Pluralsight",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "X",
+    "Function HR": "",
+    "Function Finance": "",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  },
+  {
+    "Notes": {
+      "Questions": ""
+    },
+    "Pain Point": "Without a concise disaster recovery strategy that covers digital and on-prem infrastructure, the company is vulnerable to ransomware and serious data loss which may be impossible to recover via backups.",
+    "Experience Customer": "",
+    "Experience Employee": "X",
+    "Experience Supplier": {
+      "Partner": ""
+    },
+    "Growth Stage Startup": "X",
+    "Growth Stage Expansion": "X",
+    "Growth Stage Maturity": "X",
+    "Business Pillar Modern Cloud Platforms": "Azure Backup, Azure Site Recovery, Google Cloud Backup and Disaster Recovery, AWS Backup, AWS CloudFormation",
+    "Business Pillar Seamless Security": "Ingram Micro Cyber Security Services (CoE), Acronis Backup Advanced, Progress MOVEit, Acronis Disaster Recovery",
+    "Business Pillar Connected Workplace": "",
+    "Business Pillar Business Performance": "",
+    "Function Operations": "X",
+    "Function HR": "",
+    "Function Finance": "X",
+    "Function Sales": "",
+    "Function Marketing": "",
+    "Function Distribution & Logistics": ""
+  }
+]

@@ -1,0 +1,92 @@
+.ingram--button {
+    padding: 14px 24px;
+    cursor: pointer;
+    font-size: 1rem;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    &__primary {
+        border: solid 3px $primary-aqua;
+        color: $white;
+        background-color: $primary-aqua;
+        @include media-breakpoint-down (lg) {
+            width: 100%;
+        }
+        &:hover{
+            background-color: $button-primary-bover;
+            border-color: $button-primary-bover;
+        }
+        &:active{
+            background-color: $button-primary-active;
+            border-color: $button-primary-active;
+        }
+    }
+    &__secondary {
+        border: solid 3px $primary-aqua;
+        color: $primary-aqua;
+        background-color: $white;
+        @include media-breakpoint-down (lg) {
+            width: 100%;
+        }
+        &:hover{
+            background-color: $button-secondary-hover;
+            color: $white;
+            border-color: $button-secondary-hover;
+        }
+        &:active{
+            background-color: $button-secondary-active;
+            color: $white;
+            border-color: $button-secondary-active;
+
+        }
+        &:hover, &:active {
+            svg {
+                path {
+                    fill: $white
+                }
+            }
+        }
+
+    }
+    &__ghost {
+        border: none;
+        color: $primary-aqua;
+        background-color: transparent;
+        &:hover{
+            color: $button-ghost-hover;
+            svg {
+                path {
+                    fill: $button-ghost-hover;
+                }
+            }
+        }
+        &:active{
+            color: $button-ghost-active;
+            svg {
+                path {
+                    fill: $button-ghost-active;
+                }
+            }
+        }
+        &.inverted {
+            color: $white;
+            svg {
+                path {
+                    fill: $white;
+                }
+            }
+        }
+    }
+    &.left-aligned {
+        justify-content: flex-start;
+        width: 100%;
+          @include media-breakpoint-down (lg) {
+            width: 100%;
+        }
+    }
+    svg {
+        margin-left: 10px;
+    }
+}

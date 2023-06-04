@@ -1,0 +1,817 @@
+[
+  {
+    "SKU": "Acronis Backup Advanced",
+    "SKU Description": "Powered by the Acronis Any Data Engine, Acronis Backup Advanced delivers robust, easy-to-use unified data protection and disaster recovery for multisystem environments. Deploy individual solutions or integrate into one efficient solution and manage all tasks with a single console. In minutes, users can recover individual files, application data or a complete system to any location, reducing downtime and ensuring data protection.",
+    "SKU Capabilities": "Local backup | Cloud backup | Hybrid backup | Offsite backup (stored) | Frequency of backup"
+  },
+  {
+    "SKU": "Acronis Disaster Recovery",
+    "SKU Description": "Acronis Disaster Recovery Service is a complete IT business continuity solution that protects and restores data, servers or entire data centres suffering from natural or man-made disasters. It backs up and replicates systems into an on-site appliance and Acronis cloud data centre. In case of outage, Acronis can recover and restart the systems locally or in the cloud so customers can continue providing IT services to internal and external constituents until they can safely fail back. Acronis Disaster Recovery Service can protect any physical or virtual system in any environment and any location.",
+    "SKU Capabilities": "Fast recovery | Disaster recovery for physical and virtual workloads | Production failover | Test DR readiness | Point-in-time recovery"
+  },
+  {
+    "SKU": "Adobe Creative Cloud",
+    "SKU Description": "Adobe Creative Cloud gives users access to a collection of software developed by Adobe for graphic design, video editing, web development, photography, and cloud services.",
+    "SKU Capabilities": "Design | Video editing | Web development | Photography | Illustration | Cloud services"
+  },
+  {
+    "SKU": "Adobe DC for Enterprise",
+    "SKU Description": "Adobe Acrobat DC combines Acrobat desktop software with PDF services* and the Acrobat Reader mobile app to deliver the complete PDF solution for today’s mobile, connected world. Give users the tools they need to create, edit, and sign PDFs—anywhere, on any device. And protect your systems and data with Adobe’s highest levels of security.",
+    "SKU Capabilities": "PDF Reader | PDF Editor"
+  },
+  {
+    "SKU": "Adobe PDF Reader",
+    "SKU Description": "Adobe Acrobat is a family of application software solutions and web services developed by Adobe Inc. to view, create, manipulate, print, and manage Portable Document Format (PDF) files.",
+    "SKU Capabilities": "View, print, and comment on PDF documents"
+  },
+  {
+    "SKU": "Adobe Sign",
+    "SKU Description": "Adobe Sign, part of the Adobe Document Cloud suite of services, is a cloud-based e-signature service that allows the user to send, sign, track, and manage signature processes using a browser or mobile device.",
+    "SKU Capabilities": "Cloud-based e-signatures"
+  },
+  {
+    "SKU": "AWS Auto Scaling",
+    "SKU Description": "AWS Auto Scaling monitors your applications and automatically adjusts capacity to maintain steady, predictable performance at the lowest possible cost. Using AWS Auto Scaling, it’s easy to set up application scaling for multiple resources across multiple services in minutes.",
+    "SKU Capabilities": "Unified scaling | Automatic resource discovery | Built-in scaling strategies | Predictive scaling | Fully-managed, smart scaling policies"
+  },
+  {
+    "SKU": "AWS Backup",
+    "SKU Description": "AWS Backup is a fully managed service that centralises and automates data protection across AWS services and hybrid workloads. It provides core data protection features, ransomware recovery capabilities, and compliance insights and analytics for data protection policies and operations. AWS Backup offers a cost-effective, policy-based service with features that simplify data protection at exabyte scale across your AWS estate. ",
+    "SKU Capabilities": "Data protection of application resources on AWS and hybrid services | Multi-account and multi-region ransomware recovery | Data protection compliance with real-time analytics and insights"
+  },
+  {
+    "SKU": "AWS Budgets",
+    "SKU Description": "AWS Budgets gives you the ability to set custom budgets that alert you when your costs or usage exceed (or are forecasted to exceed) your budgeted amount.",
+    "SKU Capabilities": "Track service costs and usage within AWS Service Catalog | Associate budgets with AWS Service Catalog products and portfolios"
+  },
+  {
+    "SKU": "AWS CloudFormation",
+    "SKU Description": "AWS CloudFormation is an infrastructure as code (IaC) service that allows you to easily model, provision, and manage AWS and third-party resources.",
+    "SKU Capabilities": "Extensibility | Cross account & cross-region management | Authoring with JSON/YAML | Authoring with familiar programming languages | Build serverless applications with SAM | Safety controls | Preview changes to your environment | Dependency management"
+  },
+  {
+    "SKU": "AWS CloudWatch",
+    "SKU Description": "Amazon CloudWatch is a monitoring and management service that provides data and actionable insights for AWS, hybrid, and on-premises applications and infrastructure resources. You can collect and access all your performance and operational data in the form of logs and metrics from a single platform rather than monitoring them in silos (server, network, or database). CloudWatch enables you to monitor your complete stack (applications, infrastructure, network, and services) and use alarms, logs, and event data to take automated actions and reduce mean time to resolution (MTTR). This frees up important resources and allows you to focus on building applications and business value.",
+    "SKU Capabilities": "Easily collect and store logs | Cross-account observability across multiple AWS accounts | Automate response to operational changes with CloudWatch Events | Log analytics | Compliance and security"
+  },
+  {
+    "SKU": "AWS Config",
+    "SKU Description": "AWS Config allows you to assess, audit, and evaluate configurations of your resources.",
+    "SKU Capabilities": "Configuration history of AWS resources | Configuration history of software | Resource relationships tracking | Configurable and customisable rules | Conformance packs | Multi-account, multi-region data aggregation | Extensibility | Configuration snapshots | Cloud | Partner solutions governance dashboard "
+  },
+  {
+    "SKU": "AWS Direct Connect",
+    "SKU Description": "The AWS Direct Connect cloud service is the shortest path to your AWS resources. While in transit, your network traffic remains on the AWS global network and never touches the public internet. This reduces the chance of hitting bottlenecks or unexpected increases in latency. When creating a new connection, you can choose a hosted connection provided by an AWS Direct Connect Delivery Partner, or choose a dedicated connection from AWS—and deploy at over 100 AWS Direct Connect locations around the globe. With AWS Direct Connect SiteLink, you can send data between AWS Direct Connect locations to create private network connections between the offices and data centres in your global network.",
+    "SKU Capabilities": "AWS Direct Connect Locations Worldwide | Connection speeds up to 100 Gbps | MACsec and IPsec encryption options | SiteLink | Multiple deployment options"
+  },
+  {
+    "SKU": "AWS DynamoDB",
+    "SKU Description": "Amazon DynamoDB is a fully managed, serverless, key-value NoSQL database designed to run high-performance applications at any scale. \n\nPerformance at scale: Key-value and document database that supports tables of virtually any size with horizontal scaling. Scales to more than 10 trillion requests per day and with tables that have more than ten million read and write requests per second and petabytes of data storage.\n\nPerformance: No servers to provision, patch, or manage, and no software to install, maintain, or operate. Automatically scales tables to adjust for capacity and maintains performance with zero administration. Availability and fault tolerance are built in, eliminating the need to architect your applications for these capabilities.\n\nEnterprise ready: Built for mission-critical workloads, including support for atomicity, consistency, isolation, and durability (ACID) transactions for a broad set of applications that require complex business logic. Helps secure your data with encryption and continuously backs up your data for protection, with guaranteed reliability through a service level.",
+    "SKU Capabilities": "Built-in security | Continuous backups | Automated multi-region replication | In-memory caching | Data import and export tools"
+  },
+  {
+    "SKU": "AWS Elastic Block Store",
+    "SKU Description": "Amazon Elastic Block Store (AWS EBS) is an easy-to-use, scalable, high-performance block-storage service designed for Amazon Elastic Compute Cloud (Amazon EC2).",
+    "SKU Capabilities": "Amazon data lifecycle manager for EBS snapshots | Amazon EBS Elastic Volumes | Amazon EBS Snapshots | Amazon EBS-optimised instances | Amazon EBS availability and durability | Amazon EBS encryption | AWS identity and access management"
+  },
+  {
+    "SKU": "AWS Elastic File System",
+    "SKU Description": "Amazon Elastic File System (AWS EFS) automatically grows and shrinks as you add and remove files with no need for management or provisioning.",
+    "SKU Capabilities": "Amazon EFS Infrequent Access | Amazon EFS Intelligent-Tiering"
+  },
+  {
+    "SKU": "Amazon Elastic Kubernetes Service",
+    "SKU Description": "Amazon Elastic Kubernetes Service (Amazon EKS) is a managed Kubernetes service that makes it easy for you to run Kubernetes on AWS and on-premises. Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications. Amazon EKS is certified Kubernetes-conformant, so existing applications that run on upstream Kubernetes are compatible with Amazon EKS. With Amazon EKS, you can take advantage of all the performance, scale, reliability, and availability of AWS infrastructure, as well as integrations with AWS networking and security services, such as application load balancers (ALBs) for load distribution, AWS Identity and Access Management (IAM) integration with role-based access control (RBAC), and AWS Virtual Private Cloud (VPC) support for pod networking.",
+    "SKU Capabilities": "Automatically manages availability/scalability of Kubernetes control plane nodes responsible for scheduling containers, managing application availability, storing cluster data, and other key tasks | Run Kubernetes apps on Amazon EC2 and AWS Fargate"
+  },
+  {
+    "SKU": "AWS Elastic Load Balancing",
+    "SKU Description": "Amazon Elastic Load Balancing (ELB) automatically distributes incoming application traffic across multiple targets and virtual appliances in one or more Availability Zones (AZs).",
+    "SKU Capabilities": "Application Load Balancer | Network Load Balancer | Gateway Load Balancer | Classic Load Balancer"
+  },
+  {
+    "SKU": "AWS File Gateway",
+    "SKU Description": "For user or team file shares, and file-based application migrations, Amazon FSx File Gateway provides low-latency, on-premises access to fully managed file shares in Amazon FSx for Windows File Server.",
+    "SKU Capabilities": "Extends the AWS Cloud to your data centre | Requires no changes to existing applications | Reduces physical infrastructure, cost, and complexity"
+  },
+  {
+    "SKU": "AWS Identity and Access Management",
+    "SKU Description": "With Amazon Identity and Access Management (AWS IAM), you can specify who or what can access services and resources in AWS, centrally manage fine-grained permissions, and analyse access to refine permissions across AWS.",
+    "SKU Capabilities": "IAM Access Analyser | IAM Identity Centre | Manage IAM permissions | Manage IAM roles | MFA"
+  },
+  {
+    "SKU": "AWS Inspector",
+    "SKU Description": "AWS Inspector is an automated vulnerability management service that continually scans AWS workloads for software vulnerabilities and unintended network exposure.",
+    "SKU Capabilities": "Vulnerability management for compute workloads | Simplified one-click onboarding and integration with AWS Organisations | Automated discovery and continual vulnerability scanning | AWS Systems Manager Agent | Inspector risk score for findings | Suppression of findings | Automatic closure of remediated findings | Detailed coverage monitoring | Integration with Security Hub and EventBridge | Vulnerability mapping to layers in Lambda functions"
+  },
+  {
+    "SKU": "AWS IoT Core",
+    "SKU Description": "AWS IoT Core lets you connect billions of IoT devices and route trillions of messages to AWS services without managing infrastructure.",
+    "SKU Capabilities": "AWS IoT Device SDK | Device Advisor | Device Gateway | Message Broker | Authentication and authorisation | Registry | Device Shadow | Rules Engine | AWS IoT Core for LoRaWAN | Device Location"
+  },
+  {
+    "SKU": "AWS Kinesis Data Analytics",
+    "SKU Description": "Amazon Kinesis Data Analytics is the easiest way to transform and analyse streaming data in real time using Apache Flink.",
+    "SKU Capabilities": "Stream processing applications using Apache Flink | Amazon Kinesis Data Analytics Studio | Kinesis Data Analytics SQL applications"
+  },
+  {
+    "SKU": "AWS Kinesis Data Streams",
+    "SKU Description": "Amazon Kinesis Data Streams is a serverless streaming data service that makes it easy to capture, process, and store data streams at any scale.",
+    "SKU Capabilities": "Serverless | Highly available and durable | Low latency | Dedicated throughput per consumer | Choose between on-demand and provisioned capacity mode | Secure and compliant | Integrated with other AWS services"
+  },
+  {
+    "SKU": "AWS Relational Database Service",
+    "SKU Description": "Amazon Relational Database Service (AWS RDS) is a collection of managed services that makes it simple to set up, operate, and scale databases in the cloud. Choose from seven popular engines—Amazon Aurora with MySQL compatibility, Amazon Aurora with PostgreSQL compatibility, MySQL, MariaDB, PostgreSQL, Oracle, and SQL Server—and deploy on-premises with Amazon RDS on AWS Outposts.",
+    "SKU Capabilities": "Lower administrative burden | Fast performance, scalability, availability, and durability | Security | Manageability | Cost-effectiveness | Developer productivity"
+  },
+  {
+    "SKU": "AWS Security Hub",
+    "SKU Description": "AWS Security Hub is a cloud security posture management service that performs automated, continuous security best practice checks against your AWS resources. Security Hub aggregates your security alerts (i.e. findings) from various AWS services and partner products in a standardised format so that you can more easily take action on them. To maintain a complete view of your security posture in AWS, you need to integrate multiple tools and services including threat detections from Amazon GuardDuty, vulnerabilities from Amazon Inspector, sensitive data classifications from Amazon Macie, resource configuration issues from AWS Config, and AWS Partner Network Products. Security Hub simplifies how you understand and improve your security posture with automated security best practice checks powered by AWS Config rules and automated integrations with dozens of AWS services and partner products.",
+    "SKU Capabilities": "Automated, continuous security best practice checks | Consolidated findings across AWS services and partner integrations | A single, standardised data format for all of your findings | Security standards aligned to regulatory and industry compliance frameworks | Automated response, remediation, and enrichment actions | Multi-account and AWS Organisations support | Cross-Region aggregation of findings | Integrations with ticketing, chat, incident management, investigation, GRC, SOAR, and SIEM tools | Security scores and summary dashboards | Filtering, grouping, and saved searches for your findings"
+  },
+  {
+    "SKU": "AWS Server Migration Service",
+    "SKU Description": "Customers currently using Server Migration Service (SMS) are encouraged to switch to Application Migration Service for future migrations. AWS Application Migration Service (AWS MGN) is the primary migration service recommended for lift-and-shift migrations to AWS. ",
+    "SKU Capabilities": "Simplify and expedite migration to the cloud | Quickly realise benefits of migration with minimal downtime and no changes | Migrate apps from physical infrastructure, VMware vSphere, Microsoft Hyper-V, Amazon Elastic Compute Cloud (AmazonEC2), Amazon Virtual Private Cloud (Amazon VPC), and other clouds to AWS"
+  },
+  {
+    "SKU": "AWS Simple Notification Service",
+    "SKU Description": "Amazon Simple Notification Service (AWS SNS) sends notifications two ways: A2A and A2P. A2A provides high-throughput, push-based, many-to-many messaging between distributed systems, microservices, and event-driven serverless applications. These applications include Amazon Simple Queue Service (SQS), Amazon Kinesis Data Firehose, AWS Lambda, and other HTTPS endpoints. A2P functionality lets you send messages to your customers with SMS texts, push notifications, and email. ",
+    "SKU Capabilities": "Standard Topics | FIFO topics | Maximum throughput | High throughput | Best-effort ordering | Strict ordering | Best-effort deduplication | Strict deduplication | Multiple subscription types | SQS FIFO subscriptions | Message fanout"
+  },
+  {
+    "SKU": "AWS Storage Gateway",
+    "SKU Description": "AWS Storage Gateway is a hybrid cloud storage service that gives you on-premises access to virtually unlimited cloud storage. You can use Storage Gateway to simplify storage management and reduce costs for key hybrid cloud storage use cases. These include moving backups to the cloud, using on-premises file shares backed by cloud storage, and providing low-latency access to data in AWS for on-premises applications. To support these use cases, the service provides four different types of gateways—Tape Gateway, Amazon S3 File Gateway, Amazon FSx File Gateway, and Volume Gateway—that seamlessly connect on-premises applications to cloud storage, caching data locally for low-latency access.",
+    "SKU Capabilities": "Standard storage protocols | Fully managed cache | Optimised and secure data transfer | High availability on VMware"
+  },
+  {
+    "SKU": "AWS Systems Manager",
+    "SKU Description": "AWS Systems Manager is a secure end-to-end management solution for hybrid cloud environments and the operations hub for your AWS applications and resources. It is broken into four core feature groups: Operations, Application, Change, and Node.",
+    "SKU Capabilities": "Operations management | Application management | Change management | Node management"
+  },
+  {
+    "SKU": "AWS Simple Storage Service",
+    "SKU Description": "Amazon Simple Storage Service (AWS S3) is an object storage service offering industry-leading scalability, data availability, security, and performance. Customers of all sizes and industries can store and protect any amount of data for virtually any use case, such as data lakes, cloud-native applications, and mobile apps. With cost-effective storage classes and easy-to-use management features, you can optimise costs, organise data, and configure fine-tuned access controls to meet specific business, organisational, and compliance requirements.",
+    "SKU Capabilities": "Access points | Batch operations | Block public access | Cost optimisation | Multi-region access points | Object Lambda | Object lock | Replication | Storage Lens | S3 on Outposts "
+  },
+  {
+    "SKU": "AWS Virtual Private Network",
+    "SKU Description": "AWS Virtual Private Network (AWS VPN) connects your on-premises networks and remote workers to the cloud.",
+    "SKU Capabilities": "AWS Site-to-Site VPN features | Accelerated Site-to-Site VPN | Secure connectivity | High availability | Customisation | Network Address Translation (NAT) Traversal | Private IP VPN | Monitoring"
+  },
+  {
+    "SKU": "AWS Web Application Firewall",
+    "SKU Description": "AWS Web Application Firewall (AWS WAF) allows you to securely and privately access your cloud resources with either an AWS Site-to-Site VPN, Accelerated Site-to-Site VPN, or Client VPN connection.",
+    "SKU Capabilities": "AWS Site-to-Site VPN features: Web traffic filtering | AWS WAF Bot Control | Account takeover fraud prevention | Full feature API | Real-time visibility | Integration with AWS Firewall Manager\n\nAWS Client VPN features: Authentication | Authorisation | Secure connectivity | Connection management | Compatibility with your employees' devices"
+  },
+  {
+    "SKU": "Amazon WorkDocs",
+    "SKU Description": "Amazon WorkDocs allows for secure document sharing and content collaboration, connecting teams everywhere.",
+    "SKU Capabilities": "Store content in Amazon WorkDocs | Unlimited versioning | WorkDocs drive |  Offline content and offline search | Share a link, | Invite others internally and externally | 1-click file sharing | File control | Encryption | Task management"
+  },
+  {
+    "SKU": "Amazon WorkSpaces",
+    "SKU Description": "Amazon WorkSpaces provides a secure, managed Desktop-as-a-Service (DaaS) to your end users.",
+    "SKU Capabilities": "Provision Windows or Linux desktops to users anytime, anywhere, from any supported device | Strengthen security by storing data on AWS instead of vulnerable endpoint devices | Pay only for what you use | Scale quickly to thousands of desktops across the globe"
+  },
+  {
+    "SKU": "AppGuard",
+    "SKU Description": "AppGuard, a Blue Planet-works company, provides award-winning server and endpoint cybersecurity protection for enterprises as well as small and medium-sized businesses. AppGuard's patented inheritance technology maintains the same level of guarding and isolation on any process spawned from a risky application. The technology does not rely on detection and response and instead prevents. ",
+    "SKU Capabilities": "Access to relevant applications | Application end-of-life | Misconfiguration | Keeping applications up-to-date"
+  },
+  {
+    "SKU": "AvePoint Cense",
+    "SKU Description": "Understand your Microsoft 365 global licenses and consumption at a glance, and detect unused and inappropriately assigned licenses across your tenants from a central SaaS management platform.",
+    "SKU Capabilities": "Centralised license insights and control"
+  },
+  {
+    "SKU": "Azure Active Directory",
+    "SKU Description": "Azure Active Directory (Azure AD), part of Microsoft Entra, is an enterprise identity service that provides single sign-on, multifactor authentication, and conditional access to guard against 99.9 percent of cybersecurity attacks.",
+    "SKU Capabilities": "Unified identity management | Simplify identity governance | Seamless UX | Secured, adaptive access"
+  },
+  {
+    "SKU": "Azure Advisor",
+    "SKU Description": "Quickly and easily optimise your Azure deployments. Azure Advisor analyses your configurations and usage telemetry and offers personalised, actionable recommendations to help you optimise your Azure resources for reliability, security, operational excellence, performance, and cost.",
+    "SKU Capabilities": "Optimise deployments | Work at scale | Workloads | Advisor Score"
+  },
+  {
+    "SKU": "Azure Application Insights",
+    "SKU Description": "Application Insights, a feature of Azure Monitor, is widely used within the enterprise landscape for monitoring and diagnostics. Data that has already been collected from a specific tenant or environment is pushed to your own Application Insights environment. The data is stored in Azure Monitor logs by Application Insights, and visualised in Performance and Failures panels under Investigate on the left pane. The data is exported to your Application Insights environment in the standard schema defined by Application Insights. The support, developer, and admin personas can use this feature to triage and resolve issues.",
+    "SKU Capabilities": "Live metrics | Availability | GitHub or Azure DevOps integration | Usage | Smart detection"
+  },
+  {
+    "SKU": "Azure Arc",
+    "SKU Description": "Azure Arc is a bridge that extends the Azure platform to help you build applications and services with the flexibility to run across datacentres, at the edge, and in multicloud environments. ",
+    "SKU Capabilities": "Develop and operate cloud-native apps | Harness data insights | Secure and govern applications, data, and infrastructure | Meet regulatory and connectivity needs"
+  },
+  {
+    "SKU": "Azure Backup",
+    "SKU Description": "Azure Backup is a cost-effective, secure, one-click backup solution that’s scalable based on your backup storage needs. The centralised management interface makes it easy to define backup policies and protect a wide range of enterprise workloads, including Azure Virtual Machines, SQL and SAP databases, and Azure file shares.",
+    "SKU Capabilities": "Unlimited data transfer | Centralised monitoring and management | Automatic storage management | Multiple storage options"
+  },
+  {
+    "SKU": "Azure Cloud Storage",
+    "SKU Description": "Azure Storage includes object, file, disk, queue, and table storage. There are also services for hybrid storage solutions, and services to transfer, share, and back up data.",
+    "SKU Capabilities": "Files module storage | Blob module storage (unstructured and SQL databases) | Tables module storage (NoSQL Databases) | Cloud storage | Hybrid storage | Data operations"
+  },
+  {
+    "SKU": "Azure Cognitive Services",
+    "SKU Description": "Azure Cognitive Services brings AI within reach of every developer and data scientist. With leading models, a variety of use cases can be unlocked. All it takes is an API call to embed the ability to see, hear, speak, search, understand, and accelerate advanced decision-making into your apps. Enable developers and data scientists of all skill levels to easily add AI capabilities to their apps.",
+    "SKU Capabilities": "Combine AI models from Azure Cognitive Services with task-specific AI | Built-in business logic | Programming, orchestration and customisation to bring you ready-to-deploy AI solutions"
+  },
+  {
+    "SKU": "Azure Cosmos Database",
+    "SKU Description": "Azure Cosmos DB is a fully managed NoSQL and relational database for modern app development. Cosmos DB offers single-digit millisecond response times and automatic and instant scalability, along with guaranteed speed at any scale.",
+    "SKU Capabilities": "Real-time access with fast read/write latencies globally | Throughput and consistency backed by SLAs | Multi-region writes and data distribution to any Azure region with just a button | Independently and elastically scale storage and throughput across any Azure region—even during unpredictable traffic bursts—for unlimited scale worldwide"
+  },
+  {
+    "SKU": "Azure Cost Management and Billing",
+    "SKU Description": "Cost Management and Billing helps you understand your Azure invoice (bill), manage your billing account and subscriptions, monitor and control Azure spending and optimise resource use. Learn how to analyse costs, create and manage budgets, export data, and review and act on recommendations.",
+    "SKU Capabilities": "Budgeting | Alerting"
+  },
+  {
+    "SKU": "Azure Files",
+    "SKU Description": "Take advantage of fully managed file shares in the cloud that are accessible via the industry-standard SMB and NFS protocols. Azure Files shares can be mounted concurrently by cloud or on-premises deployments of Windows, Linux, and macOS. Azure Files shares can also be cached on Windows Servers with Azure File Sync for fast access near where the data is being used.",
+    "SKU Capabilities": "Server-less file shares | Built for hybrid with file sync | Optimised TCO | Multiple protocols support"
+  },
+  {
+    "SKU": "Azure File Sync",
+    "SKU Description": "Azure File Sync enables centralising your organisation's file shares in Azure Files, while keeping the flexibility, performance, and compatibility of a Windows file server. While some users may opt to keep a full copy of their data locally, Azure File Sync additionally has the ability to transform Windows Server into a quick cache of your Azure file share.",
+    "SKU Capabilities": "Use any protocol available on Windows Server to access data locally, including SMB, NFS, and FTPS | Unlimited caches across the world"
+  },
+  {
+    "SKU": "Azure Firewall",
+    "SKU Description": "Azure Firewall is a managed, cloud-based network security service that protects your Azure Virtual Network resources. The stateful firewall service has built-in high availability and unrestricted cloud scalability to help you create, enforce, and log application and network connectivity policies across subscriptions and virtual networks.",
+    "SKU Capabilities": "Threat intelligence-based filtering | Unified management | Transport Layer Security (TLS) inspection | Simple deployment and management"
+  },
+  {
+    "SKU": "Azure IoT",
+    "SKU Description": "Create and develop industry-specific cloud solutions on the only platform with intelligent edge-to-cloud technologies that come with security, privacy, and compliance built-in. Drive transformation and achieve desired business outcomes by building intelligent environments that allow you to connect, monitor, automate, and model devices and applications—all with the Microsoft Cloud.",
+    "SKU Capabilities": "Edge AI | Best-in-class development tools | Single control pane | Largest ecosystem in the industry"
+  },
+  {
+    "SKU": "Azure Kubernetes Service",
+    "SKU Description": "Azure Kubernetes Service (AKS) simplifies deploying a managed Kubernetes cluster in Azure by offloading the operational overhead to Azure. As a hosted Kubernetes service, Azure handles critical tasks, like health monitoring and maintenance. Since Kubernetes masters are managed by Azure, you only manage and maintain the agent nodes. Thus, AKS is free; you only pay for the agent nodes within your clusters, not for the masters.",
+    "SKU Capabilities": "Innovate, deploy, and operate Kubernetes seamlessly"
+  },
+  {
+    "SKU": "Azure Migrate",
+    "SKU Description": "Get all the Azure migration tools and guidance you need to plan and implement your move to the cloud—and track your progress using a central dashboard that provides intelligent insights.",
+    "SKU Capabilities": "Migrate on-prem to Cloud"
+  },
+  {
+    "SKU": "Azure Monitor",
+    "SKU Description": "Collect, analyse, and act on telemetry data from your Azure and on-premises environments. Azure Monitor helps you maximise performance and availability of your applications and proactively identify problems in seconds.",
+    "SKU Capabilities": "Monitor availability, performance and usage of apps | Diagnose networking issues | Analyse and optimise network"
+  },
+  {
+    "SKU": "Azure Reserved Instances",
+    "SKU Description": "Azure Reservations help you save money by committing to one-year or three-year plans for multiple products. Committing allows you to get a discount on the resources you use. Reservations can significantly reduce your resource costs by up to 72% from pay-as-you-go prices. Reservations provide a billing discount and don't affect the runtime state of your resources. After you purchase a reservation, the discount automatically applies to matching resources.",
+    "SKU Capabilities": "Simplify the virtual machine purchasing experience | Optimise costs with instance size flexibility | Reserve compute capacity on demand"
+  },
+  {
+    "SKU": "Microsoft Sentinel",
+    "SKU Description": "Microsoft Sentinel is Microsoft's cloud-native security information and event manager (SIEM) platform that uses built-in AI to help analyse large volumes of data across an enterprise.",
+    "SKU Capabilities": "Large volume data analysis | Protect event data"
+  },
+  {
+    "SKU": "Azure Site Recovery",
+    "SKU Description": "Azure Site Recovery offers ease of deployment, cost effectiveness, and dependability. Deploy replication, failover, and recovery processes through Site Recovery to help keep your applications running during planned and unplanned outages.",
+    "SKU Capabilities": "Native Disaster Recovery as a Service (DRaaS) | Reduce infrastructure costs | Minimise downtime"
+  },
+  {
+    "SKU": "Azure SQL Managed Instance (PAAS)",
+    "SKU Description": "Azure SQL Managed Instance is the intelligent, scalable cloud database service that combines the broadest SQL Server database engine compatibility with all the benefits of a fully managed and evergreen platform as a service. ",
+    "SKU Capabilities": "Intelligent cloud database service, combining the broadest SQL Server engine compatibility "
+  },
+  {
+    "SKU": "Azure Virtual Desktop",
+    "SKU Description": "Azure Virtual Desktop combines the scale, security, and cost benefits of Azure and Microsoft 365 for a secure remote desktop from virtually anywhere.",
+    "SKU Capabilities": "Virtual desktop in the cloud"
+  },
+  {
+    "SKU": "Azure Virtual Machine Scale Sets",
+    "SKU Description": "Azure Virtual Machine Scale Sets let you create and manage a group of load balanced VMs. The number of VM instances can automatically increase or decrease in response to demand or a defined schedule.",
+    "SKU Capabilities": "On-demand cloud computing"
+  },
+  {
+    "SKU": "Azure Virtual Machines",
+    "SKU Description": "An Azure Virtual Machine gives you the flexibility of virtualisation without having to buy and maintain the physical hardware that runs it. However, you still need to maintain the virtual machine by performing tasks, such as configuring, patching, and installing the software that runs on it.",
+    "SKU Capabilities": "On-demand cloud computing"
+  },
+  {
+    "SKU": "Azure VMware Solution",
+    "SKU Description": "Seamlessly move VMware-based workloads from your datacentre to Azure and integrate your VMware environment with Azure. Keep managing your existing environments with the same VMware tools you already know while you modernise your applications with Azure native services. Azure VMware Solution is a Microsoft service, verified by VMware, that runs on Azure infrastructure.",
+    "SKU Capabilities": "Integrate VMware environment with Azure | Use existing VMware investments with Azure | Deploy on dedicated cloud infrastructure in Azure\n\n"
+  },
+  {
+    "SKU": "Azure VPN Gateway",
+    "SKU Description": "Azure VPN Gateway connects your on-premises networks to Azure through Site-to-Site VPNs in a similar way that you set up and connect to a remote branch office. The connectivity is secure and uses the industry-standard protocols Internet Protocol Security (IPsec) and Internet Key Exchange (IKE).",
+    "SKU Capabilities": "Connects your on-premises networks to Azure through site-to-site VPNs"
+  },
+  {
+    "SKU": "Bitdefender App Control",
+    "SKU Description": "Bitdefender Application Control makes the generation and maintenance of application whitelists and blacklists for Windows servers and desktops, based on specific control rules, easy to manage. With sophisticated built-in management, Application Control is a comprehensive solution tailored to fit the application control needs of your business. ",
+    "SKU Capabilities": "Access to relevant applications | Application end-of-life | Misconfiguration | Keeping applications up to date"
+  },
+  {
+    "SKU": "Bitdefender GravityZone Email Security",
+    "SKU Description": "The Bitdefender GravityZone Email Security is a cloud-driven email security gateway able to protect any type of email service against various types of email-centric threat vectors.",
+    "SKU Capabilities": "Spam filters | Phishing | Legacy platforms malware | Ransomware"
+  },
+  {
+    "SKU": "Bitdefender GravityZone Patch Management",
+    "SKU Description": "With the GravityZone Patch Management module organisations can keep their operating systems and software applications up to date and enjoy a comprehensive view of the patch status across their entire Windows install base. The automated patching module delivers updates for an organisation’s entire fleet of workstations, physical servers, or virtual servers.",
+    "SKU Capabilities": "Automated patching module for OS | Automated patching for compliance and data regs | Manual patching options"
+  },
+  {
+    "SKU": "Bitdefender Next-Gen AV",
+    "SKU Description": "Effectively manage file servers, desktops, laptops, physical and virtual machines with a single, affordable endpoint security solution.\nSafeguard your organisation against the most sophisticated cyberthreats with 30+ layers of machine learning-driven security technologies.",
+    "SKU Capabilities": "Bitdefender Endpoint Protection For Business"
+  },
+  {
+    "SKU": "Change Adopt",
+    "SKU Description": "Change Adopt exist to enable organisations and their users get the very best from the technology they invest in, creating a sustainable change and adoption platform, starting with Microsoft technologies.",
+    "SKU Capabilities": "Creates sustainable change and adoption platform"
+  },
+  {
+    "SKU": "Cisco Remote-Access VPN",
+    "SKU Description": "Cisco remote-access VPN solutions offer threat-protected VPN services with full firewall, antivirus,\nanti-spyware, intrusion prevention, application control, and full endpoint security capabilities.\nThese security services are integrated into the VPN platform, delivering a threat-protected VPN\nsolution without any additional equipment, design, deployment, or operational complexity.",
+    "SKU Capabilities": "Intelligent VPN | Comprehensive endpoint security | Unified cloud management | Greater network visibility"
+  },
+  {
+    "SKU": "Cisco Umbrella Data Loss Prevention",
+    "SKU Description": "Umbrella data loss prevention (DLP) functionality analyses outbound web traffic inline and out-of-band to provide control over sensitive data leaving your organisation. It’s easy to deploy and manage with flexible policies incorporating pre-built, customisable data identifiers.",
+    "SKU Capabilities": "Full SSL inspection via SWG proxy | SaaS API-based scanning | Single interface | 80+ pre-built dictionaries"
+  },
+  {
+    "SKU": "Cisco Zero Trust Security",
+    "SKU Description": "Cisco Zero Trust offers a comprehensive solution to secure all access across your applications and environment, from any user, device, and location. This complete zero trust security model allows you to mitigate, detect, and respond to risks across your environment.",
+    "SKU Capabilities": "User security | Device security | Network security | Trust-based access"
+  },
+  {
+    "SKU": "CloudCheckr",
+    "SKU Description": "CloudCheckr brings visibility and intelligence to help you lower costs, maintain security and compliance, and optimise resources. Manage your single or multi-cloud infrastructure with CloudCheckr.",
+    "SKU Capabilities": "Gain visibility and lower cost | Ensure security and compliance | Track and manage resources | Track and manage resources | Deliver cloud services and billing"
+  },
+  {
+    "SKU": "CyberSmart",
+    "SKU Description": "The CyberSmart platform guides you through a journey to being cyber secure – with no need for expertise or expensive software. CyberSmart assesses how you’re currently doing and guides you all the way through to achieving security your customers can trust. ",
+    "SKU Capabilities": "Cyber Essentials | Cyber Essentials Plus | GDPR Readiness | CyberSmart VSS (Assessment Services)"
+  },
+  {
+    "SKU": "Delinea Application Access Control",
+    "SKU Description": "Delinea’s Database Access Controller enables enterprises to adopt modern cloud databases from AWS, Google, Azure, Oracle, Redis, and others while still enforcing appropriate access levels, multi-factor authentication, complete reporting, and auditing workflows. ",
+    "SKU Capabilities": "Access to relevant applications | Application end-of-life | Misconfiguration | Keeping applications up-to-date"
+  },
+  {
+    "SKU": "Delinea Privilege Manager",
+    "SKU Description": "Delinea’s Privilege Manager makes it possible to implement a least privilege security posture and eliminate local administrative privileges on workstations. Privilege elevation and integrated application control keeps your workforce productive while reducing risk.",
+    "SKU Capabilities": "Deploy a single agent | Define flexible policies | Manage and/or remove local admin rights | Elevate applications | Improve IT and end-user productivity"
+  },
+  {
+    "SKU": "Delinea Secret Server",
+    "SKU Description": "Secret Server gives security and IT ops teams the agility to secure and manage all types of privileges, protecting administrator, service, application, and root accounts from cyberattacks. With Secret Server, you can establish a password vault, set granular permissions, manage secrets, and control access to privileged accounts. In fact, Secret Server is a fully-featured PAM solution that’s available both on-premise and in the cloud.",
+    "SKU Capabilities": "Establish secure vault | Discover privileges | Manage secrets | Delegate access | Control sessions"
+  },
+  {
+    "SKU": "Docker 20.10",
+    "SKU Description": "Quickly and easily migrate your apps to Azure to increase security and modernise app services. With Docker deployment on Azure, you’re able to run modern and traditional Linux or Windows apps with enterprise-grade security, support, and scale.",
+    "SKU Capabilities": "Support for Linux and Windows Server containers | Flexibility to support microservices and traditional app workloads | Integrated graphical UI-based management and operation | Granular role-based access control (RBAC) and support for lightweight directory | Access protocol (LDAP) and Azure Active Directory integration | End-to-end security model for a more secure supply chain"
+  },
+  {
+    "SKU": "DocuSign",
+    "SKU Description": "DocuSign eSignature is the world’s #1 way to send and sign agreements securely from virtually any device, anywhere, at any time. DocuSign enables people around the world to electronically sign documents, approvals, and agreements—on any device, in any time zone.",
+    "SKU Capabilities": "Templates | Audit trail | Customisable branding | Bulk send and sign | Signature requests | Multiple languages | Stamps | Mobile device capabilities | Reminders and notifications | Reporting | Multi-teams | Integration with other productivity and collaboration apps"
+  },
+  {
+    "SKU": "Dropbox",
+    "SKU Description": "Dropbox is a way for you to protect data, manage usage, work efficiently, and mitigate risk, providing superior visibility and control. Request and share large files while robust content controls safeguard your intellectual property. ",
+    "SKU Capabilities": "File-sharing"
+  },
+  {
+    "SKU": "Dubber",
+    "SKU Description": "Dubber is the world’s #1 Unified Call Recording and Voice AI solution. Record every conversation. Store, share and review. Gain critical compliance, revenue, customer and people intelligence with a click. Dubber was created to enable individuals and business, government and teams of any size to capture the value in every conversation.",
+    "SKU Capabilities": "Call recording"
+  },
+  {
+    "SKU": "Dynamics 365 Business Central",
+    "SKU Description": "It is critical now more than ever that SMB owners are empowered with the information needed to make crucial decisions. Business Central is a single end-to-end solution for managing all your business processes. Manage every aspect of your business from marketing, sales, stock management, distribution, and customer service. There is also seamless integration with the entire Microsoft 365 suite, including Excel, Word, Outlook, and Teams, which improves efficiency and helps you streamline processes.",
+    "SKU Capabilities": "General ledger | Budgeting | Accounts receivable | Accounts payable | Multiple currencies | External compliance certification | Risk management dashboard | Fixed assets | Finance management | Cash flow forecasting | Purchasing | Inventory management | Supply planning | Demand forecasting | Project management | Service management | Warehouse management | Manufacturing"
+  },
+  {
+    "SKU": "Dynamics 365 Commerce",
+    "SKU Description": "Dynamics 365 Commerce delivers a comprehensive omnichannel solution that unifies back-office, in-store, call centre, and digital experiences. Dynamics 365 Commerce enables you to build brand loyalty through personalised customer engagements, increase revenue with improved employee productivity, and optimise operations to reduce costs and drive supply chain efficiencies, ultimately delivering better business outcomes.",
+    "SKU Capabilities": "Omnichannel engagement and promotion management | Unified commerce platform | Connected ordering and fulfilment | Digital storefront | Drag-and-drop content authoring | Context-aware product search | Accessibility insights | AI-assisted customer support | API-powered headless commerce"
+  },
+  {
+    "SKU": "Dynamics 365 Customer Insights",
+    "SKU Description": "Dynamics 365 Customer Insights weaves enterprise system data into meaningful customer profiles with behavioural, transactional, and demographic dimensions to create 360-degree customer views. These insights can be used for omnichannel digital marketing, advertising, reporting, and trendspotting.",
+    "SKU Capabilities": "Customer profiling | Customer prediction | Sales recommendations | Marketing lists | Email marketing | Advanced analytics"
+  },
+  {
+    "SKU": "Dynamics 365 Customer Service Enterprise",
+    "SKU Description": "The agent experience is the heart of Dynamics 365 Customer Service. The key to improving satisfaction in service delivery is enabling agents to take customer requests from any channel, handle multiple sessions at a time, interact with multiple apps without losing context, and enhance their workflow with productivity tools.",
+    "SKU Capabilities": "Self-service support | Increase agent productivity | AI-driven insights and analytics | Digital engagement"
+  },
+  {
+    "SKU": "Dynamics 365 Customer Service Professional",
+    "SKU Description": "Dynamics 365 Customer Service Professional provides basic resources for customer service agents. It also provides a self-service customer portal and access to the knowledge base for end customers. It’s meant for less complex scenarios that need streamlined capabilities to support customers and customer service teams.",
+    "SKU Capabilities": "Self-service support | Case management"
+  },
+  {
+    "SKU": "Dynamics 365 Field Service",
+    "SKU Description": "The Dynamics 365 Field Service business application helps organisations deliver onsite service to customer locations. The application combines workflow automation, scheduling algorithms, and mobility to set up mobile workers for success when they're onsite with customers fixing issues.",
+    "SKU Capabilities": "Work orders | Service agreements | Automated scheduling | AI-enabled schedule board | Inventory management | Mobile productivity | Connected devices"
+  },
+  {
+    "SKU": "Dynamics 365 Finance",
+    "SKU Description": "Microsoft Dynamics 365 Finance enables organisations to monitor the performance of financial operations in real-time, predict outcomes, and make data-driven decisions to drive business agility and growth. It empowers users to do business anywhere, anytime, with an intuitive user-interface personalised for their role and preferences.",
+    "SKU Capabilities": "Financial decision making | Predictive insights | Global financial management | In-depth reporting | Real-time analytics | Financial process automation | Budget control | Financial planning | Revenue forecasting | Financial Compliance (inc. IFRS 15 & ASC)"
+  },
+  {
+    "SKU": "Dynamics 365 Guides",
+    "SKU Description": "Enhance remote collaboration and empower employees with step-by-step holographic instructions to use where the work happens.",
+    "SKU Capabilities": "Holographic instructions | Spatial triggers | Immersive testing | Remote collaboration"
+  },
+  {
+    "SKU": "Dynamics 365 Human Resources",
+    "SKU Description": "Human Resources streamlines many routine recordkeeping tasks and automates a number of processes related to staffing your organisation. It also provides a framework for human resources staff to manage areas of oversight. These areas include employee recruitment and retention, benefits administration, training, performance reviews, and change management.",
+    "SKU Capabilities": "People management | Compensation management | Compliance | Leave and absence | Benefits | Learning and development | Employee self-service | Hiring and offer management"
+  },
+  {
+    "SKU": "Dynamics 365 Marketing",
+    "SKU Description": "Dynamics 365 Marketing elevates customer experiences, allowing you to orchestrate personalised journeys across all touchpoints to strengthen relationships and earn loyalty. The Dynamics 365 Marketing app works seamlessly with Dynamics 365 Sales, Dynamics 365 Customer Service, Dynamics 365 Commerce, Microsoft Teams, and other products and allows you to make faster and better decisions using the power of data and AI.",
+    "SKU Capabilities": "Email marketing | Lead scoring | Marketing segmenting | Customer journeys | Event management | Connector for LinkedIn | Lead generation forms"
+  },
+  {
+    "SKU": "Dynamics 365 Project Operations",
+    "SKU Description": "Project Operations connects sales, resourcing, project management, and finance teams in a single application to win more deals, accelerate project delivery, and maximise profitability.",
+    "SKU Capabilities": "Pipeline, deal, and project management | Time tracking and expense management | Project insights and data vis | Intelligent scheduling"
+  },
+  {
+    "SKU": "Dynamics 365 Remote Assistant",
+    "SKU Description": "Empower technicians to collaborate more efficiently by working together from different locations with Dynamics 365 Remote Assist on HoloLens, HoloLens 2, Android, or iOS devices.",
+    "SKU Capabilities": "Collaborative maintenance and repair | Remote inspections | Knowledge sharing and training"
+  },
+  {
+    "SKU": "Dynamics 365 Sales Enterprise",
+    "SKU Description": "With Dynamics 365 Sales Enterprise, your sales organisation can automate the sales process from lead to cash, run marketing campaigns, enforce best practices, collaborate with customers, and much more. ",
+    "SKU Capabilities": "Lead & opportunity management | Marketing lists | Quote management | Real-time reports and dashboards | Forecasting | Email intelligence | Sales playbooks | Customer applications and workflows | Conversation intelligence | Coaching tools | Viva sales"
+  },
+  {
+    "SKU": "Dynamics 365 Sales Professional",
+    "SKU Description": "Dynamics 365 Sales enables salespeople to build strong relationships with their customers, take actions based on insights, and close deals faster. Use Dynamics 365 Sales to keep track of your accounts and contacts, nurture your sales from lead to order, and create sales collateral. You can also create marketing lists and campaigns and follow service cases associated with specific accounts or opportunities.",
+    "SKU Capabilities": "Lead & opportunity management | Marketing lists | Quote management | Real-time reports and dashboards"
+  },
+  {
+    "SKU": "Dynamics 365 Supply Chain Management",
+    "SKU Description": "Dynamics 365 Supply Chain Management empowers employees and organisations with the ability to obtain a unified view of inventory, warehouse, manufacturing, service, and logistics with predictive analytics that turn data into insights to support better strategic decisions.",
+    "SKU Capabilities": "Asset management | Inventory management | Production central | Procurement and sourcing | Transportation | Warehouse management | Fleet management"
+  },
+  {
+    "SKU": "ExpressRoute",
+    "SKU Description": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365.",
+    "SKU Capabilities": "Layer 3 connectivity | Redundancy | Connectivity to Microsoft cloud services"
+  },
+  {
+    "SKU": "Google Chrome OS for Enterprise/Education",
+    "SKU Description": "Google Chrome Enterprise provides the OS, browser, and devices your business needs to cloud-power your workforce.",
+    "SKU Capabilities": "Sandbox OS"
+  },
+  {
+    "SKU": "Google Cloud Anthos",
+    "SKU Description": "Anthos is the leading cloud-centric container platform to run modern apps anywhere consistently at scale.",
+    "SKU Capabilities": "Enterprise-grade container orchestration and management service | Automate policy and security at scale | CI/CD anywhere: Google Cloud , On-Premises or other clouds"
+  },
+  {
+    "SKU": "Google Cloud Backup and Disaster Recovery",
+    "SKU Description": "Google Cloud Backup and DR is a managed backup and disaster recovery service for centralised data protection.",
+    "SKU Capabilities": "“Incremental-forever” backups | Instant mount and recovery | Application-consistent database backups | Reduced operational burden | Broad database support"
+  },
+  {
+    "SKU": "Google Cloud Bigtable",
+    "SKU Description": "Google Cloud Bigtable is a fully managed, scalable NoSQL database service for large analytical and operational workloads with up to 99.999% availability. \n\nHigh throughput at low latency:\nBigtable is ideal for storing very large amounts of data in a key-value store and supports high read and write throughput at low latency for fast access to large amounts of data. Throughput scales linearly—you can increase QPS (queries per second) by adding Bigtable nodes. Bigtable is built with proven infrastructure that powers Google products used by billions such as Search and Maps.\n\nCluster resizing without downtime:\nScale seamlessly from thousands to millions of reads/writes per second. Bigtable throughput can be dynamically adjusted by adding or removing cluster nodes—all without any downtime. Bigtable can also autoscale your cluster based on changes in demand so that you can maintain great performance in the most cost-effective way.\n\nFlexible, automated replication to optimise any workload:\nWrite data once and automatically replicate where needed with eventual consistency—giving you control for high availability and isolation of read and write workloads. No manual steps needed to ensure consistency, repair data, or synchronise writes and deletes. Benefit from a high availability SLA of 99.999% for instances with multi-cluster routing across 3 or more regions (99.9% for single-cluster instances).\n\nEnterprise-grade security and controls:\nCustomer-managed encryption keys (CMEK) with External Key Manager support, IAM integration for access and controls, support for VPC-SC, and comprehensive audit logging help ensure your data is protected and complies with regulations.",
+    "SKU Capabilities": "High throughput at low latency | Cluster resizing without downtime | Flexible, automated replication to optimise any workload | Enterprise-grade security and controls\n"
+  },
+  {
+    "SKU": "Google Cloud Billing Budgets and Alerts",
+    "SKU Description": "Avoid surprises on your bill by creating Cloud Billing budgets to monitor all of your Google Cloud charges in one place. A budget enables you to track your actual Google Cloud spend against your planned spend. After you've set a budget amount, you set budget alert threshold rules that are used to trigger email notifications. Budget alert emails help you stay informed about how your spend is tracking against your budget. You can also use budgets to automate cost control responses.",
+    "SKU Capabilities": "Support threshold rules | Specify time periods | Define scope of the budget to the entire billing account | Narrow the scope to a specific project or service"
+  },
+  {
+    "SKU": "Google Cloud Chronicle Security Operations",
+    "SKU Description": "Google Cloud Chronicle Security Operations is the modern, cloud-born suite that better enables cybersecurity teams to detect, investigate, and respond to threats with the speed, scale, and intelligence of Google.",
+    "SKU Capabilities": "Detect, investigate, and respond to cyber threats"
+  },
+  {
+    "SKU": "Google Cloud Filestore",
+    "SKU Description": "Google Cloud Filestore is high-performance, fully managed file storage.",
+    "SKU Capabilities": "Scale to meet needs of high performance workloads | 99.99% regional availability SLA to support enterprise apps | Protect your data with backups and snapshots | Support GKE workloads"
+  },
+  {
+    "SKU": "Google Cloud gsutil API",
+    "SKU Description": "gsutil is a Python application that lets you access Cloud Storage from the command line. ",
+    "SKU Capabilities": "Creating and deleting buckets | Uploading, downloading, and deleting objects | Listing buckets and objects | Moving, copying, and renaming objects | Editing object and bucket ACLs"
+  },
+  {
+    "SKU": "Google Cloud High-Availability VPN",
+    "SKU Description": "Google Cloud HA VPN is a high-availability (HA) Cloud VPN solution that lets you securely connect your on-premises network to your VPC network through an IPsec VPN connection in a single region. HA VPN provides an SLA of 99.99% service availability.",
+    "SKU Capabilities": "Securely connect peer network to Virtual Private Cloud (VPC) network | Traffic traveling between networks is encrypted by one VPN gateway and then decrypted by the other | Connect two instances of Cloud VPN"
+  },
+  {
+    "SKU": "Google Cloud Identity and Access Management",
+    "SKU Description": "Google Cloud IAM offers fine-grained access control and visibility for centrally managing cloud resources. IAM lets administrators authorise who can take action on specific resources, giving you full control and visibility to manage Google Cloud resources centrally. For enterprises with complex organisational structures, hundreds of workgroups, and many projects, IAM provides a unified view into security policy across your entire organisation, with built-in auditing to ease compliance processes.",
+    "SKU Capabilities": "Enterprise-grade access control | Central resource management | Unified view into security policy across entire organisation | Built-in auditing to ease compliance processes"
+  },
+  {
+    "SKU": "Google Cloud Interconnect",
+    "SKU Description": "Google Cloud Interconnect extends your on-premises network to Google's network through a highly available, low latency connection. You can use Dedicated Interconnect to connect directly to Google or use Partner Interconnect to connect to Google through a supported service provider.",
+    "SKU Capabilities": "Direct physical connections between your on-premises network and Google's network | Transfer large amounts of data between networks (more cost-effective than purchasing additional bandwidth)"
+  },
+  {
+    "SKU": "Google Cloud Managed Instance Groups and Load Balancers",
+    "SKU Description": "Google Cloud Managed Instance Groups (MIGs) let you operate apps on multiple identical VMs. You can make your workloads scalable and highly available by taking advantage of automated MIG services, including: autoscaling, autohealing, regional (multiple zone) deployment, and automatic updating",
+    "SKU Capabilities": "High availability to keep VM instances running | Application-based autohealing | Regional (multiple zone) coverage | Load balancing | Scalability | Automated updates | Support for stateful workloads"
+  },
+  {
+    "SKU": "Google Cloud Migrate for GKE",
+    "SKU Description": "Google Cloud Migrate for GKE is a tool to containerise existing VM-based applications to run on GKE. By taking advantage of the GKE ecosystems, Migrate for GKE provides a fast and simple way to modernise orchestration and application management without requiring access to source code or rewriting and re-architecting applications.",
+    "SKU Capabilities": "Intelligently extract, migrate, and modernise applications to run natively on containers in GKE, Cloud Run, or Anthos clusters"
+  },
+  {
+    "SKU": "Google Cloud Migrate for Compute Engine",
+    "SKU Description": "Google Cloud Migrate for Compute Engine provides tools to help you bring your existing applications to the cloud. You can have your applications running on Compute Engine within minutes while your data migrates transparently in the background. Bring your existing applications from your physical servers, VMware vSphere, Amazon EC2, or Azure VMs.",
+    "SKU Capabilities": "End-to-end enterprise mass migration into Google Cloud | Real-time streaming gets workloads running in the cloud in minutes| Agentless technology reduces labour requirements | Automatic adaptation of workloads in the cloud makes transitions easy"
+  },
+  {
+    "SKU": "Google Cloud Monitoring",
+    "SKU Description": "Google Cloud Monitoring allows you to gain visibility into the performance, availability, and health of your applications and infrastructure.",
+    "SKU Capabilities": "SLO monitoring | Custom metrics | Google Cloud Console integration | Managed Service for Prometheus | Ops Agent | Logging integration | Dashboards | Multiple project and group/cluster support | Alerting | Uptime monitoring"
+  },
+  {
+    "SKU": "Google Cloud Platform",
+    "SKU Description": "Google Cloud Platform (GCP), offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search, Gmail, Google Drive, and YouTube. Alongside a set of management tools, it provides a series of modular cloud services including computing, data storage, data analytics and machine learning.",
+    "SKU Capabilities": "Future-proof infrastructure | Powerful data and analytics | Machine learning"
+  },
+  {
+    "SKU": "Google Cloud Quotas",
+    "SKU Description": "Google Cloud uses quotas to restrict how much of a particular shared Google Cloud resource you can use. Each quota represents a specific countable resource, such as API calls to a particular service, the number of load balancers used concurrently by your project, or the number of projects that you can create. For example, you can set your own limits on service usage while developing and testing your applications to avoid unexpected bills from using expensive resources.",
+    "SKU Capabilities": "Protect the community of Google Cloud users | Prevent unforeseen spikes in usage and overloaded services | Manage resources | Set limits on service usage | Avoid unexpected bills"
+  },
+  {
+    "SKU": "Google Cloud Security Command Centre",
+    "SKU Description": "Google Cloud Security Command Centre is the security and risk management platform for Google Cloud.\nDiscover and view your assets in near-real time across App Engine, BigQuery, Cloud SQL, Cloud Storage, Compute Engine, Cloud Identity and Access Management, Google Kubernetes Engine, and more. Review historical discovery scans to identify new, modified, or deleted assets. Understand the security state of your Google Cloud assets. Uncover common web application vulnerabilities such as cross-site scripting or outdated libraries in your web applications running on App Engine, GKE, and Compute Engine. Quickly resolve misconfigurations by clicking directly on the impacted resource and following the prescribed steps on how to fix it. Detect threats using logs running in Google Cloud at scale. Detect crypto mining threats and some of the most common container attacks, including suspicious binary, suspicious library, and reverse shell.",
+    "SKU Capabilities": "Asset discovery and inventory | Threat prevention | Threat detection\n"
+  },
+  {
+    "SKU": "Google Cloud Spanner",
+    "SKU Description": "Google Cloud Spanner is a fully managed, horizontally scalable, globally consistent relational database with unlimited scale, strong consistency, and up to 99.999% availability.",
+    "SKU Capabilities": "ACID transaction compliant database | Highly available | Globally consistent | Horizontally scalable"
+  },
+  {
+    "SKU": "Google Cloud SQL",
+    "SKU Description": "Google Cloud SQL is a fully managed relational database for MySQL, SQLServer, and PostgreSQL",
+    "SKU Capabilities": "Reduces maintenance costs | Automates database provisioning | Storage capacity management | Backups and out-the-box high-availability and disaster recovery/failover"
+  },
+  {
+    "SKU": "Google Cloud Storage",
+    "SKU Description": "Google Cloud Storage is a RESTful online file storage web service for storing and accessing data on Google Cloud Platform infrastructure. The service combines the performance and scalability of Google's cloud with advanced security and sharing capabilities.",
+    "SKU Capabilities": "Managed service for storing unstructured data | Store any amount of data | Retrieve it as often as you like | Supports automatic storage class transitions with object lifecycle management | Continental-scale and SLA backed replication | Default and configurable data security"
+  },
+  {
+    "SKU": "Google Cloud Vertex AI",
+    "SKU Description": "Google Cloud Vertex AI allows you to build, deploy, and scale machine learning (ML) models faster, with fully managed ML tools for any use case. ",
+    "SKU Capabilities": "One AI platform for every ML tool | Unified UI for the entire ML workflow | Pre-trained APIs for vision, video, natural language, and more | End-to-end integration for data and AI | Support for all open source frameworks | End-to-end application development environment"
+  },
+  {
+    "SKU": "Google IoT Core",
+    "SKU Description": "The Google Cloud suite of products supports IoT use cases and future solutions that customers and their partners manage. Using Google Cloud technologies, combined with partners, our customers can customise specific IoT solutions to meet their unique needs. Our partners offer solutions that can support edge messaging services, device management, analytics, and the ability to derive insights using Google Cloud’s industry leading AI/ML intelligence.",
+    "SKU Capabilities": "Easily and securely connect, manage, and ingest data from globally dispersed devices"
+  },
+  {
+    "SKU": "Google Workspace Business",
+    "SKU Description": "Google Workspace is a set of intelligent, cloud-based productivity tools including Gmail, Docs, Drive, Calendar, Meet, and much more. Google Workspace drives technological and cultural change by accelerating productivity and enhancing communication, collaboration, and control — all within a highly secure cloud environment.",
+    "SKU Capabilities": "Gmail | Google Calendar | Google Drive | Google Meet"
+  },
+  {
+    "SKU": "HelloSign",
+    "SKU Description": "HelloSign is an app that lets users virtually sign documents, or send documents out to collect legally-binding signatures.",
+    "SKU Capabilities": "E-signatures"
+  },
+  {
+    "SKU": "Ingram Micro Cyber Security Services (CoE)",
+    "SKU Description": "The Cyber-Security Centre of Excellence helps channel partners deliver effective, integrated, and scalable solutions for end-user organisations. This offering ranges from training and consulting in the areas of vulnerability management and pen testing to assessment services.",
+    "SKU Capabilities": "Spam filters | Phishing | Legacy platforms malware | Ransomware"
+  },
+  {
+    "SKU": "Meeting Rooms",
+    "SKU Description": "Ingram Micro provides the hardware, software, cabling and installation services that enable you to successfully sell, service and support complete, end-to-end solutions for your clients’ meeting rooms.",
+    "SKU Capabilities": "Instant messaging | Online meetings | Voice calls "
+  },
+  {
+    "SKU": "Microsoft 365 Business Premium",
+    "SKU Description": "Microsoft 365 Business Premium is a comprehensive suite of collaboration products and enterprise-grade security tools curated specifically for businesses with 1 to 300 employees. It includes Office productivity apps and services plus advanced security capabilities to help defend businesses against cyberthreats, protect data, and secure devices. Although other licensing plans include some of these advanced security and management capabilities, for organisations with less than 300 employees, Microsoft 365 Business Premium is generally the most cost-effective package. ",
+    "SKU Capabilities": "Cloud-based Office | Intune | Azure Information Protection"
+  },
+  {
+    "SKU": "Microsoft 365 Business Standard",
+    "SKU Description": "Formerly O365 Premium, Microsoft 365 Business Standard empowers users to collaborate in real time with teamwork tools that are always up-to-date. Additionally, professional email and online storage are included, all with built-in security to help keep your data safe.",
+    "SKU Capabilities": "Cloud-based Office"
+  },
+  {
+    "SKU": "Microsoft Defender for Business",
+    "SKU Description": "Defender for Business is a new endpoint security solution that was designed especially for the small- and medium-sized business. With this endpoint security solution, your company's devices are better protected from ransomware, malware, phishing, and other threats.",
+    "SKU Capabilities": "Posture management | Identify unique workload security requirements | Defend all resources (on-prem, cloud, etc.) | Security recommendations on resources | Up to 300 users"
+  },
+  {
+    "SKU": "Microsoft Defender for Cloud",
+    "SKU Description": "Microsoft Defender for Cloud is a Cloud Security Posture Management (CSPM) and Cloud Workload Protection Platform (CWPP) for all of your Azure, on-premises, and multicloud (Amazon AWS and Google GCP) resources. ",
+    "SKU Capabilities": "Posture management | Identify unique workload security requirements | Defend all resources (on-prem, cloud, etc.) | Security recommendations on resources"
+  },
+  {
+    "SKU": "Microsoft Enterprise Mobility Suite",
+    "SKU Description": "Microsoft Enterprise Mobility Suite (EMS) combines Azure Active Directory, Rights Management, Microsoft Intune, and Advanced Threat Analytics for cost-effective, comprehensive security across devices, applications, and data.",
+    "SKU Capabilities": "Azure Active Directory | Rights Management | Microsoft Intune | Advanced Threat Analytics"
+  },
+  {
+    "SKU": "Microsoft Entra",
+    "SKU Description": "Microsoft Entra a family of products that encompasses all identity and access capabilities. Within the Entra family are products such as Microsoft Azure Active Directory (Azure AD), Microsoft Entra Verified ID, and Microsoft Entra Permissions Management. Microsoft Entra is the vision for identity and access that expands beyond identity and access management with new product categories such as cloud infrastructure entitlement management (CIEM) and decentralised identity.",
+    "SKU Capabilities": "Identity | Access management | CIEM | Decentralised identity"
+  },
+  {
+    "SKU": "Microsoft FastTrack for Microsoft 365",
+    "SKU Description": "Microsoft FastTrack covers Microsoft Modern Workplace, Azure, and Dynamics 365. It is a funded programme specifically designed to shorten deployment and adoption timelines, enabling customers to quickly capture value from their investments in software and cloud services.",
+    "SKU Capabilities": "Shorten the deployment and adoption time scales"
+  },
+  {
+    "SKU": "Microsoft Office 365",
+    "SKU Description": "Microsoft Office 365 is a cloud-based service that is designed to help meet your organisation’s needs for robust security, reliability, and user productivity. Microsoft Office 365 delivers the power of cloud productivity to businesses of all sizes, helping save time, money, and free up valued resources. Office 365 combines the familiar Microsoft Office desktop suite with cloud-based versions of Microsoft’s next-generation communications and collaboration services.",
+    "SKU Capabilities": "Microsoft Word | Microsoft PowerPoint | Microsoft Excel | OneDrive | Security and device management capabilities"
+  },
+  {
+    "SKU": "Microsoft Teams",
+    "SKU Description": "Microsoft Teams is the ultimate unified communications platform which combines persistent workplace chat, video meetings, file storage and application integration. Microsoft Teams is the hub for team collaboration in Office 365 that joins content, tools and people within an organisation and enables you to share, enable, collaborate and evolve your modern workplace.",
+    "SKU Capabilities": "Chat | Video meetings | File storage | App integration"
+  },
+  {
+    "SKU": "Microsoft Viva",
+    "SKU Description": "Microsoft Viva is the employee experience platform within Microsoft 365 and Microsoft Teams that brings together communications, knowledge, learning, resources, and insights into the flow of work. Viva supports connection, insight, purpose, and growth, empowering people and teams to be their best.",
+    "SKU Capabilities": "Workplace analytics | Employee feedback | Goal-setting | Objectives and key results management (OKR) | Knowledge and learning tools | Role-based experiences"
+  },
+  {
+    "SKU": "Microsoft Viva Sales",
+    "SKU Description": "Microsoft Viva Sales is a seller experience application that allows sellers to leverage Microsoft 365 and Microsoft Teams to automatically capture sales data into any CRM system, eliminating manual data entry and freeing up more time to focus on selling.",
+    "SKU Capabilities": "Viva Sales is included in Sales Enterprise and Sales Premium at no additional cost"
+  },
+  {
+    "SKU": "Microsoft 365",
+    "SKU Description": "Microsoft 365 is a bundle of services including Office 365, plus several other services including Windows 10 Enterprise. ",
+    "SKU Capabilities": "Office apps | Intelligent cloud services | World-class security"
+  },
+  {
+    "SKU": "Office 365",
+    "SKU Description": "O365 is familiar Microsoft Office collaboration and productivity tools delivered through the cloud. Everyone can work together easily with anywhere access to email, web conferencing, documents, and calendars. It includes business-class security and is backed by Microsoft. Whether you are a small business or multinational enterprise, Office 365 offers plans designed to fit your organisation's unique needs.",
+    "SKU Capabilities": "Cloud-based Office"
+  },
+  {
+    "SKU": "Obrela (SOC as a Service)",
+    "SKU Description": "SOCaaS is a Security Operations Centre (SOC) subscription-based service that ensures real time monitoring and analysis of security events, proactive incident management and compliance with regulations.",
+    "SKU Capabilities": "Spam filters | Phishing | Legacy platforms malware | Ransomware"
+  },
+  {
+    "SKU": "Penetration Testing",
+    "SKU Description": "The scope of the Basic Penetration Testing is to assess the IT assets of an organisation. The IT Assets include firewalls, routers, VPN, IDS/IPS, Web servers, Application servers, Database servers, etc.\nPenetration Testing provides an insight into the organisation’s current state of security, discover possible ways to penetrate and test the effectiveness of security countermeasures. ",
+    "SKU Capabilities": "Vulnerability identification | Threat classification | Guidance to prioritise remediation"
+  },
+  {
+    "SKU": "Pluralsight",
+    "SKU Description": "Pluralsight helps organisations, teams, and individuals build better products with online courses and data-driven insights that fuel skill development. ",
+    "SKU Capabilities": "Tailored E-learning"
+  },
+  {
+    "SKU": "Power Apps",
+    "SKU Description": "Power Apps is a suite of apps, services, connectors, and data platforms that provides a rapid application development environment to build custom business apps. Power Apps can be connected to business data stored either in the underlying Dataverse platform or in various online and on-premises data sources (SharePoint, Microsoft 365, Dynamics 365, Microsoft SQL Server, and so on). Apps built using Power Apps provide rich business logic and workflow capabilities and can be run in a browser or on mobile devices (phone or tablet). Power Apps also provides an extensible platform that lets pro developers programmatically interact with data and metadata, apply business logic, create custom connectors, and integrate with external data.",
+    "SKU Capabilities": "Low-code/no-code applications | AI modelling | Mobile applications"
+  },
+  {
+    "SKU": "Power Automate",
+    "SKU Description": "Power Automate is a service that empowers teams to build automated processes using low-code drag-and-drop tools, record and visualise end-to-end processes using process and task mining, and quickly process forms using document automation.",
+    "SKU Capabilities": "Low-code/no-code | Robotic process automation | Process flows | Cloud automation"
+  },
+  {
+    "SKU": "Power BI",
+    "SKU Description": "Power BI is an advanced analytics tool that works together to turn unrelated sources of data into coherent, visually immersive, and interactive insights. Data may be an Excel spreadsheet or a collection of cloud-based and on-premises hybrid data warehouses. Power BI lets you easily connect data sources, visualise, and discover what’s important, and share with anyone.",
+    "SKU Capabilities": "Advanced analytics | Data security | Data visualisation | Excel integration | AI insights"
+  },
+  {
+    "SKU": "Power Pages",
+    "SKU Description": "When used with other Microsoft Power Platform products, Power Pages allows users to quickly build external business websites, securely store and manage data, and create professional-grade solutions for customers. ",
+    "SKU Capabilities": "Self-service portals | Web development | Power Platform integration | Application extensibility"
+  },
+  {
+    "SKU": "Power Virtual Agents",
+    "SKU Description": "Power Virtual Agents lets you create powerful AI-powered chatbots for a range of requests—from providing simple answers to common questions to resolving issues requiring complex conversations. Engage with customers and employees in multiple languages across websites, mobile apps, Facebook, Microsoft Teams, or any channel supported by the Azure Bot Framework.",
+    "SKU Capabilities": "AI-powered automation | Cross-channel customer engagement | Centralised administration and security | Natural language processing | Knowledge base"
+  },
+  {
+    "SKU": "Progress MOVEit",
+    "SKU Description": "MoveIT is a low-friction solution for a dispersed workforce. It empowers users by facilitating file transfers with built-in protection and enhanced control in terms of access and visibility. This ensures regulatory compliance and eliminates the risk of Shadow IT environments.",
+    "SKU Capabilities": "Data-at-rest (Ransomware) | Multi-site data storage | Hybrid cloud locations"
+  },
+  {
+    "SKU": "SharePoint",
+    "SKU Description": "Organisations use Microsoft SharePoint to create websites. You can use it as a secure place to store, organise, share, and access information from any device. All you need is a web browser, such as Microsoft Edge, Internet Explorer, Chrome, or Firefox. ",
+    "SKU Capabilities": "Creating websites | Store, organise, share, and access information from any device"
+  },
+  {
+    "SKU": "SignTech",
+    "SKU Description": "The SignTech e-Forms and eSignature platform and workflow solution enables you to create (or convert your existing forms to) re-usable digital paperless forms and processes that can be completed by your customers, staff and users on smartphones, tablets and PCs. The solution has a fully private and on-premise option therefore your data is totally secure and private. This enables your staff to continue business processes from home and other non-office locations. ",
+    "SKU Capabilities": "On CMP vs traditional products"
+  },
+  {
+    "SKU": "SIPPIO",
+    "SKU Description": "SIPPIO puts Voice in Microsoft Teams by enabling native calling capabilities to drive value, productivity and agility of any M365 investment. The end-to-end solution delivers automated activation and voice services in 60+ countries ensuring there’s no build, code, professional services, maintenance or upgrades. Flexible plans allow customers to opt in/out or up/down on a monthly basis and simplify procurement, billing, and payment functions.",
+    "SKU Capabilities": "Internet-based calling "
+  },
+  {
+    "SKU": "Skyhigh CASB/ICE",
+    "SKU Description": "Skyhigh Security Cloud Access Security Broker (CASB) protects data and stops threats in the cloud across SaaS, PaaS, and IaaS from a single, cloud-native enforcement point.",
+    "SKU Capabilities": "Discover sensitive data | Real-time controls | Cloud registry | Cloud activity monitoring | Insider threat detection | Structured data encryption"
+  },
+  {
+    "SKU": "Skyhigh CNAPP",
+    "SKU Description": "Skyhigh Security Cloud-Native Application Protection Platform (CNAPP) is the industry’s first platform that brings application and risk context to converge Cloud Security Posture Management (CSPM) to protect from a single, cloud-native enforcement point, and Cloud Workload Protection Platform (CWPP) to protect workloads",
+    "SKU Capabilities": "Access to relevant applications | Application end-of-life | Misconfiguration\nKeeping applications up to date"
+  },
+  {
+    "SKU": "Skyhigh Private Access",
+    "SKU Description": "Skyhigh Private Access is the data-centric Zero Trust Network Access (ZTNA) solution that provides DLP scanning and seamless RBI integration for robust data protection. Apply a unified policy across web, SaaS, and private apps – all from a fully converged platform managed from one single console.",
+    "SKU Capabilities": "RBI integration | Converged solution | DLP inspection | Anti-malware inspection| Endpoint posture management | Leveraged web policy"
+  },
+  {
+    "SKU": "Teams Phone with or without calling plan",
+    "SKU Description": "Teams Phone with Calling Plan is a cost-effective and easy-to-use communication solution for small businesses. Users may make phone calls from anywhere, on any device, including laptops, smartphones, desk phones, and conference rooms, with the new SKU combining calling, chat, meetings, and collaboration into a single app.",
+    "SKU Capabilities": "Cloud-based phone system | Basic and advanced call control | PSTN calling | Contact centre | Voicemail | Transcription"
+  },
+  {
+    "SKU": "Trellix Application Control",
+    "SKU Description": "Application Control protects your organisation against malware attacks before they occur by proactively controlling the applications that run on your desktops, laptops, and servers. It enforces control on connected or disconnected servers, virtual machines (VMs), and endpoints. ",
+    "SKU Capabilities": "Access to relevant applications | Application end-of-life | Misconfiguration | Keeping applications up to date"
+  },
+  {
+    "SKU": "Trellix Complete Data Protection Advanced",
+    "SKU Description": "Trellix Complete Data Protection Advanced (CDA) provides the core features of endpoint encryption along with DLP Endpoint and Device Control. CDA includes DLP Endpoint, Device Control, Drive Encryption, File & Removable Media Protection, and Management of Native Encryption. Management: EPO -On-prem or ePO - IaaS. File & Removable Media Protection 5.0 release includes encrypted file capability for a number of Cloud Storage Services.",
+    "SKU Capabilities": "Enterprise-grade drive encryption | Access control | User behaviour management"
+  },
+  {
+    "SKU": "Trellix Data Loss Prevention Endpoint",
+    "SKU Description": "Trellix Data Loss Prevention Endpoint provides comprehensive protection for all possible leaking channels, including removable storage devices, the cloud, email, instant messaging, web, printing, clipboard, screen capture, file-sharing applications, and more.",
+    "SKU Capabilities": "Lack of data classification | Sharing permissions | Embedded documents | Embedded macros"
+  },
+  {
+    "SKU": "Trellix Email Security Cloud",
+    "SKU Description": "Trellix Email Security – Cloud reduces costs and increases employee productivity while minimising the risk of costly breaches caused by advanced email attacks. This adaptive security tool continually learns about the threat landscape, absorbing an array of intelligence inputs to feed artificial intelligence/machine learning analytics that detect and counteract email threats before they can take hold.",
+    "SKU Capabilities": "Spam filters | Phishing | Legacy platforms malware | Ransomware"
+  },
+  {
+    "SKU": "Trellix Email Security Server",
+    "SKU Description": "With Trellix Email Security Server, your organisation can minimise the risk of costly breaches caused by advanced email attacks. This on-premises solution empowers you to identify, isolate, and immediately stop URL and attachment-based attacks before they enter your environment. Trellix collects extensive threat intelligence through first-hand breach investigations and millions of sensors. And Email Security Server uses this data, concrete evidence, and contextual intelligence to help you prioritise alerts and block threats in real time. By integrating with additional Trellix extended detection and response (XDR) products, you can get broader visibility into multisector blended attacks and coordinate real-time protection.",
+    "SKU Capabilities": "Spam filters | Phishing | Legacy platforms malware | Ransomware"
+  },
+  {
+    "SKU": "Trellix Endpoint Detection and Response",
+    "SKU Description": "Trellix Endpoint Detection and Response (EDR) helps security analysts understand alerts, conduct investigations, and quickly respond to threats.",
+    "SKU Capabilities": "Simplify deployment | Focus on incident response | Gain visibility into emerging threats | AI-guided investigations | Grow analysts' skills | Remove manual processes\n"
+  },
+  {
+    "SKU": "Trellix Endpoint Security",
+    "SKU Description": "The endpoint solution you depend on should align with the priorities that matter most to you. Whether you’re focused on business continuity and security strategy or in protecting the network and endpoints, Trellix Endpoint Security (ENS) aligns to your specific critical needs—from preventing threats and hunting them to tailoring security controls. With Trellix ENS and Trellix Insights you can protect your organisation before an attack by using specific threat priorities. The solution enables you to ensure system uptime for users, find more opportunities for automation, and simplify complex workflows.",
+    "SKU Capabilities": "Endpoint protection for targeted attacks | Intelligent, adaptive scanning | Rollback remediation | Proactive web security | Dynamic Application Containment | Blocking of hostile network attacks | Story Graph | Open, extensive endpoint security framework | Centralised management (ePO platform) with multiple deployment choices"
+  },
+  {
+    "SKU": "Trellix Insights",
+    "SKU Description": "Trellix Insights provides the latest global intelligence on the top campaigns that threat actors are using to target business sectors and organisations around the world. You can view metrics for your business sector and geo-location and prevalence data for both targeted campaigns and specific security threats that might impact your organisation. With this information, you can take preventive action to protect your organisation.",
+    "SKU Capabilities": "Prioritisation of threats and active scanning | Predictive assessment of security posture | Prescriptive, preventive security actions"
+  },
+  {
+    "SKU": "Trellix Mobile Security",
+    "SKU Description": "Protect your employees and their mobile devices with Trellix Mobile Security. This solution detects threats and vulnerabilities on Apple iOS or Google Android devices, the networks they’re connected to, and the applications that users have downloaded. On-device detection capabilities provide protection whether the device is online or not. Mobile Security uses machine learning capabilities fed by billions of data points from millions of devices to identify current or imminent threats and attacks, including ones that have never been seen before.",
+    "SKU Capabilities": "Always-on defence for on-the-go devices | Advanced analysis thwarts advanced attacks | A single console for all devices—including mobile "
+  },
+  {
+    "SKU": "Trellix Network Data Loss Prevention",
+    "SKU Description": "Trellix Network DLP consists of three modules (Prevent, Discovery, and Monitor). By combining all these pieces, organisations enjoy integrated security which reduces the risk of data loss and helps improve the maturity of security processes. It also allows them to move past reactive operations which can’t keep up with the volume, speed, and sophistication of today’s threats and attain a fully optimised proactive security process.",
+    "SKU Capabilities": "Lack of data classification | Sharing permissions | Embedded documents | Embedded Macros"
+  },
+  {
+    "SKU": "Vulnerability Assessments",
+    "SKU Description": "Vulnerability Assessment provides an insight into an organisation’s current state of security, and the effectiveness of its countermeasures. Vulnerability Assessments is performed in two formats:\n1. External Vulnerability Assessment: Performed remotely with no internal access provided to our SOC team. The goal of this test is to identify and classify the weaknesses of the internet-facing IT assets of an organisation such as Web applications, web servers, network endpoints, VPN, and e-mail servers. This test helps an organisation to learn what external IT assets need security controls, patches, and general hardening.\n2. Internal Vulnerability Assessment: Performed from within the premises of the target organisation, usually to identify and classify threats and weaknesses in the internal network. It helps an organisation determine its compliance to global or local policies, standards and procedures in terms of information security, data protection and segmentation of networks.",
+    "SKU Capabilities": "External Vulnerability Assessment | Internal Vulnerability Assessment"
+  },
+  {
+    "SKU": "Yammer",
+    "SKU Description": "Yammer connects leaders, communicators, and employees to build communities, share knowledge, and engage everyone. Yammer helps you connect and engage across your organisation, so you can discuss ideas, share updates, and network with others.",
+    "SKU Capabilities": "Messaging | Communication channels"
+  }
+]

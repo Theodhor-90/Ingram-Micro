@@ -1,0 +1,77 @@
+.ingram--accordion {
+    width: 100%;
+    border-bottom: 1px solid $white;
+    padding: 12px 8px;
+    &.border-top{
+        border-top: 1px solid $white;
+        &.inverted {
+            border-color: $text-black;
+        }
+    }
+    &.inverted {
+        border-color: $text-black;
+    }
+    &__title {
+      background-color: transparent;
+      color: $white;
+      cursor: pointer;
+      font-weight: 700;
+      font-size: 0.875rem;
+      width: 100%;
+      border: none;
+      text-align: left;
+      outline: none;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0;
+      &.inverted {
+        color: $text-black;
+        }
+
+       .icon-container {
+           display: flex;
+           align-items: center;
+           &.plus {
+            opacity: 0;
+           }
+           &.minus {
+            opacity: 0;
+           }
+            &.active {
+                .plus {
+                    opacity: 1;
+                    transition: all 0.5s;
+                }
+                .minus {
+                    opacity: 1;
+                    transform: rotate(360deg);
+                    transition: all 0.4s ease-in-out;
+                }
+            }
+        }
+    }
+  
+    &__content {
+      background-color: transparent;
+      overflow: hidden;
+      max-height: 0;
+      visibility: hidden;  
+      transition: all 0.3s ease;
+      color: $white;
+      font-size: 0.875rem;
+      line-height: 1.2rem;
+      &.inverted {
+        color: $text-black;
+      }
+    }
+    
+    &.active {
+        .ingram--accordion__content {
+            max-height: 300rem;
+            visibility: visible;
+            transition: all 0.3s ease;
+            padding-bottom: 15px;
+        }
+    }
+  }

@@ -1,0 +1,30 @@
+.ingram--card__container {
+    text-decoration: none;
+    width: 100%;
+    .ingram--card{
+        display: flex;
+        padding: 16px 16px;
+        border-radius: 4px;
+        background-color: $white;
+        justify-content: space-between;
+        margin-top: 16px;
+        &:hover{
+            background-color: $neutral-light-grey;
+        }
+        &__content-container {
+            display: flex;
+            align-items: center;
+            .title{
+                margin: 0;
+                color: $secondary-light-blue;
+                font-weight: 700;
+                font-size: $body-font-size-small;
+            }
+            .paragraph {
+                margin: 8px 0 0 0 ;
+                color: $text-black;
+            }
+        }
+    
+    }
+}

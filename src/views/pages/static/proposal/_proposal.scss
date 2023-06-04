@@ -1,0 +1,22 @@
+.proposal {
+    &--rich-text{
+        color: $white;
+        font-size: $body-font-size;
+        h4 {
+            margin-bottom: 0;
+        }
+    }
+    &--link {
+        color: $white;
+        font-weight: 700;
+        margin-top: 30px;
+        a {
+            color: $white;
+        }
+    }
+    &--list {
+        li {
+            margin-bottom: 5px;
+        }
+    }
+}

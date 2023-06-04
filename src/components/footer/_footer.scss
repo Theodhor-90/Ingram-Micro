@@ -1,0 +1,17 @@
+.ingram--footer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: 32px;
+    &__text{
+        font-size: 0.875rem;
+        font-weight: 400;
+        color: $white;
+        margin: 0;
+        a {
+            color: $white;
+            font-weight: 400;
+        }
+    }
+}

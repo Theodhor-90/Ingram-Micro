@@ -1,0 +1,20 @@
+.chip {
+    background-color: $neutral-mid-grey;
+    color: $secondary-light-blue;
+    border-radius: 4px;
+    border: none;
+    padding: 6px 8px;
+    cursor: pointer;
+    font-size: 0.875;
+    text-align: left;
+    &:hover{
+        background-color: $neutral-hover-grey;
+    }
+    &.selected {
+        background-color: $secondary-light-blue;
+        color: $white;
+    }
+    &.not-selected {
+        pointer-events: none;
+    }
+}

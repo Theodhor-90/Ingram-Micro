@@ -1,0 +1,32 @@
+.customer-centric--page-container {
+    width: 100%;
+    height: 100%;
+    @include media-breakpoint-up(lg){
+        padding-right: 24px;
+    }
+}
+
+.customer-centric--page-wrapper{
+    display: flex;
+    justify-content: space-between;
+    @include media-breakpoint-down(lg){
+        flex-direction: column;
+    }
+    .left--container {
+        color: $white;
+        padding-right: 40px;
+        & .ingram--title{
+            letter-spacing: 0.01em;
+            line-height: 24px;
+        }
+        & .ingram--paragraph{
+            font-weight: 400;
+        }
+        @include media-breakpoint-down(lg){
+            padding-right: 0;
+        }
+    }
+    .right--container {
+        color: $white;
+    }
+}

@@ -1,0 +1,21 @@
+.competetive {
+    &--rich-text{
+        color: $white;
+        margin-bottom: 50px;
+        @include media-breakpoint-down (lg) {
+            margin-bottom: 20px;
+        }
+    }
+
+    &--list {
+        list-style-position: inside;
+        padding-left: 3px;
+        li {
+            font-size: $body-font-size-small;
+            &:not(:first-child) {
+                margin-top: 8px;
+            }
+        }
+
+    }
+}

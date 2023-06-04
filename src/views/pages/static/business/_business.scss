@@ -1,0 +1,19 @@
+.business-driving {
+    &--rich-text{
+        color: $white;
+        margin-bottom: 50px;
+        @include media-breakpoint-down (lg) {
+            margin-bottom: 20px;
+        }
+    }
+    &--list {
+        font-size: $body-font-size;
+        li {
+            margin-bottom: 5px;
+            a {
+                color: $white;
+                font-size: $body-font-size;
+            }
+        }
+    }
+}
