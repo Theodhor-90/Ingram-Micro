@@ -1,7 +1,7 @@
 import { FC, useEffect, useState } from 'react'
 import { SelectArrow } from '../../../../icons/SelectArrow'
 import { Check } from '../../../../icons/Check'
-import { IGenericInput } from '../Body'
+import { IGenericInput } from '../FormBody'
 import { TError } from '../../AliquaForm'
 
 interface ISelectInput extends IGenericInput {

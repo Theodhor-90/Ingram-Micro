@@ -1,5 +1,5 @@
 import { FC, useEffect, useState } from 'react'
-import { IGenericInput } from '../Body'
+import { IGenericInput } from '../FormBody'
 import { TError } from '../../AliquaForm'
 
 export const TextAreaInput: FC<IGenericInput> = ({

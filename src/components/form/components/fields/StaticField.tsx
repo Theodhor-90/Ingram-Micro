@@ -1,5 +1,4 @@
 import { FC } from 'react'
-import { IGenericInput } from '../Body'
 
 interface IStaticField {
     name: string

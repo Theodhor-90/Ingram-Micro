@@ -1,8 +1,6 @@
 import { FC, useRef, useState } from 'react'
 import { FormTitle } from './components/FormTitle'
 import { FormBody } from './components/FormBody'
-import { useDispatch } from 'react-redux'
-import { updateRoute } from '../../app/routeSlice'
 import { salesSupportSchema } from './validation'
 import { blacklist } from './blacklist/blacklist'
 
@@ -86,18 +84,9 @@ export const AliquaForm: FC<{}> = ({}) => {
         setErors(errors.filter((e) => e.name !== field))
     }
 
-    const dispatch = useDispatch()
-
-    const backToHome = () => {
-        dispatch(updateRoute('Explore Engagement Tools'))
-    }
-
     const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault()
         const formDataObj = new FormData(e.currentTarget)
-        const payload = Object.fromEntries(formDataObj)
-        console.log('POSTTTTT', payload)
-        console.log('FORM DATA', formData)
         let stageField = ''
         stages.forEach((stage) => {
             if (stage.selected) {
